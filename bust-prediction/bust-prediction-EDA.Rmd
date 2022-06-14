@@ -1,0 +1,75 @@
+---
+title: "ffball_EDA"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = F, warning = F)
+library(tidyverse)
+```
+
+```{r}
+# Import data
+file_dir <- paste(getwd(), "data", sep = "/../")
+data <- paste(file_dir, "ffball_ADP&stat_data_2013-2021.csv", sep="/") %>% 
+  read_delim(delim=",")
+```
+
+# ADP vs Points Per Game
+
+```{r, message = F}
+# ADP vs Points Scored Smoothed Means
+data %>%
+  filter(ADP <= 72, Position != "TE", Played > 8) %>%
+  ggplot(aes(x = ADP, y = FantasyPointsPerGameHalfPointPPR, color = Position, group = Position)) +
+  geom_point(size = 2, alpha = 0.8) +
+  geom_smooth() +
+  scale_color_manual(values = c("#EF8354", "#042A2B")) +
+  theme_bw()
+```
+
+# Running Back Data
+
+```{r}
+# Running backs in first 5 rounds who played more than 8 games
+rb_data <- data %>%
+  filter(ADP <= 60, Position == "RB", Played > 8) %>%
+  arrange(FantasyPointsPerGameHalfPointPPR)
+
+# Fit linear regression model to evaluate
+# Y_hat = 17.13769 - 0.13659 x ADP
+rb_lin_reg_model <- lm(FantasyPointsPerGameHalfPointPPR ~ ADP,
+                       data = rb_data)
+summary(rb_lin_reg_model)
+
+# Use linear regression model to get expected points 
+rb_data <- rb_data %>%
+  mutate(PPG_Expectation = predict.lm(rb_lin_reg_model, rb_data[, "ADP"])) %>%
+  mutate(PPGvsExpectation = FantasyPointsPerGameHalfPointPPR - PPG_Expectation) %>%
+  mutate(Bust = ifelse(PPGvsExpectation < -5, T, F))
+```
+
+```{r}
+# Visualizing PPG vs Expectation Data
+# Histogram
+rb_data %>% 
+  ggplot(aes(x = PPGvsExpectation)) +
+  geom_histogram(bins = 15) +
+  geom_vline(xintercept = -5, size = 1, color = "#A30015", linetype = 2) +
+  labs(x = "PPG vs Expectation", y = "Count") +
+  theme_bw()
+
+# Scatterplot
+rb_data %>%
+  ggplot(aes(x = ADP, y = FantasyPointsPerGameHalfPointPPR, color = Bust)) +
+  geom_point(size = 3, alpha = 0.9) +
+  geom_abline(intercept = 17.13769, slope = -0.13659, size = 1, color = "gray25") +
+  scale_color_manual(values = c("#53131E", "#30C2FC")) +
+  theme_bw()
+```
+
+```{r}
+
+```
+
+
