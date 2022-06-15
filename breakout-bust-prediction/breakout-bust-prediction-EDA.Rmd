@@ -6,16 +6,18 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message = F, warning = F)
 library(tidyverse)
+library(viridis)
 ```
 
 ```{r}
 # Import data and select relevant features
 file_dir <- paste(getwd(), "data", sep = "/../")
-data <- paste(file_dir, "ADP&stats_2013-2021.csv", sep="/") %>% 
+data <- paste(file_dir, "ADP&Stats&QB_2013-2021.csv", sep="/") %>% 
   read_delim(delim=",") %>%
   select(FirstName, LastName, Team, Position, Year, TeamPosRank, 
          ADP, PosRank1_ADP, PosRank2_ADP, PosAmbiguity, PPG_HalfPPR, GamesPlayed,
-         everything()) # sorting columns
+         everything()) %>% # sorting columns
+  arrange(Year, Team, Position, TeamPosRank)
 ```
 
 # ADP vs Points Per Game
@@ -54,18 +56,42 @@ rb_data <- rb_data %>%
 # Histogram of performance vs expectation
 rb_data %>% 
   ggplot(aes(x = PPGvsExpectation)) +
-  geom_histogram(bins = 15) +
-  geom_vline(xintercept = -4, size = 1, color = "#A30015", linetype = 2) +
+  geom_histogram(bins = 15, fill = "gray20") +
+  geom_vline(xintercept = -4, size = 1, color = "#85A8E9", linetype = 2) +
+  ggtitle("RB Distribution of Points vs Expectation") +
   labs(x = "PPG vs Expectation", y = "Count") +
-  theme_bw()
+  theme_bw() +
+  theme(plot.title = element_text(hjust = 0.5))
 
 # Scatterplot
 rb_data %>%
   ggplot(aes(x = ADP, y = PPG_HalfPPR, color = Bust)) +
-  geom_point(size = 3, alpha = 0.9) +
-  geom_abline(intercept = 17.16584, slope = -0.13671, size = 1, color = "gray25") +
-  scale_color_manual(values = c("#53131E", "#30C2FC")) +
-  theme_bw()
+  geom_point(size = 3, alpha = 0.95) +
+  geom_abline(intercept = 17.166, slope = -0.137, size = 1, color = "gray30", linetype = 5) +
+  scale_color_manual(values = c("#485696", "#F9C784")) +
+  ggtitle("Running Back Data from 2013-2021") +
+  theme_bw() +
+  theme(plot.title = element_text(hjust = 0.5))
+
+# Boxplot comparing QBR for busts and non-busts
+rb_data %>%
+  ggplot(aes(x = Bust, y = QB_QBR, fill = Bust)) +
+  geom_boxplot() +
+  ggtitle("QBR for QBs of RBs") +
+  scale_fill_manual(values = c("#485696", "#F9C784")) +
+  theme_bw() +
+  theme(plot.title = element_text(hjust = 0.5))
+
+# Boxplot comparing QBR for busts and non-busts
+pal <- wes_palette("Zissou1", 100, type = "continuous")
+rb_data %>%
+  ggplot(aes(x = factor(QB_Age), y = PPGvsExpectation)) +
+  geom_boxplot(aes(fill = QB_Age)) +
+  labs(x = "QB Age") +
+  ggtitle("RB Points vs Expectation by QB Age") +
+  scale_fill_gradientn(colours = rev(pal)) + 
+  theme_bw() +
+  theme(plot.title = element_text(hjust = 0.5))
 ```
 
 # Wide Receiver Data - Busts
@@ -91,18 +117,42 @@ wr_data <- wr_data %>%
 # Histogram of performance vs expectation
 wr_data %>% 
   ggplot(aes(x = PPGvsExpectation)) +
-  geom_histogram(bins = 15) +
-  geom_vline(xintercept = -4, size = 1, color = "#A30015", linetype = 2) +
+  geom_histogram(bins = 15, fill = "gray20") +
+  geom_vline(xintercept = -4, size = 1, color = "#85A8E9", linetype = 5) +
+  ggtitle("WR Distribution of Points vs Expectation") +
   labs(x = "PPG vs Expectation", y = "Count") +
-  theme_bw()
+  theme_bw() +
+  theme(plot.title = element_text(hjust = 0.5))
 
 # Scatterplot
 wr_data %>%
   ggplot(aes(x = ADP, y = PPG_HalfPPR, color = Bust)) +
-  geom_point(size = 3, alpha = 0.9) +
-  geom_abline(intercept = 15.62736, slope = -0.08141, size = 1, color = "gray25") +
-  scale_color_manual(values = c("#53131E", "#30C2FC")) +
-  theme_bw()
+  geom_point(size = 3, alpha = 0.95) +
+  geom_abline(intercept = 15.62736, slope = -0.08141, size = 1, color = "gray30", linetype = 5) +
+  scale_color_manual(values = c("#485696", "#F9C784")) +
+  ggtitle("Wide Receiver Data from 2013-2021") +
+  theme_bw() + 
+  theme(plot.title = element_text(hjust = 0.5))
+
+# Boxplot comparing QBR for busts and non-busts
+wr_data %>%
+  ggplot(aes(x = Bust, y = QB_QBR, fill = Bust)) +
+  geom_boxplot() +
+  scale_fill_manual(values = c("#485696", "#F9C784")) +
+  ggtitle("QBR for QBs of WRs") +
+  theme_bw() +
+  theme(plot.title = element_text(hjust = 0.5))
+
+# Boxplot comparing QBR for busts and non-busts
+pal <- wes_palette("Zissou1", 100, type = "continuous")
+wr_data %>%
+  ggplot(aes(x = factor(QB_Age), y = PPGvsExpectation)) +
+  geom_boxplot(aes(fill = QB_Age)) +
+  ggtitle("WR Points vs Expectation by QB Age") +
+  labs(x = "QB Age") +
+  scale_fill_gradientn(colours = rev(pal)) + 
+  theme_bw() +
+  theme(plot.title = element_text(hjust = 0.5))
 ```
 
 
