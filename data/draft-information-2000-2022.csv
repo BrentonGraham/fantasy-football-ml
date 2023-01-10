@@ -1,0 +1,1502 @@
+FirstName,LastName,DraftYear,DraftRnd,DraftPick,DraftTm,Pos,DraftAge,College/Univ
+Peter,Warrick,2000,1,4,CIN,WR,23,Florida St.
+Jamal,Lewis,2000,1,5,BAL,RB,21,Tennessee
+Thomas,Jones,2000,1,7,ARI,RB,22,Virginia
+Plaxico,Burress,2000,1,8,PIT,WR,23,Michigan St.
+Travis,Taylor,2000,1,10,BAL,WR,22,Florida
+Ron,Dayne,2000,1,11,NYG,RB,22,Wisconsin
+Chad,Pennington,2000,1,18,NYJ,QB,24,Marshall
+Shaun,Alexander,2000,1,19,SEA,RB,23,Alabama
+Sylvester,Morris,2000,1,21,KAN,WR,22,Jackson St.
+R,Jay Soward,2000,1,29,JAX,WR,22,USC
+Trung,Canidate,2000,1,31,STL,RB,23,Arizona
+Dennis,Northcutt,2000,2,32,CLE,WR,22,Arizona
+Todd,Pinkston,2000,2,36,PHI,WR,23,Southern Miss
+Jerry,Porter,2000,2,47,OAK,WR,22,West Virginia
+Travis,Prentice,2000,3,63,CLE,RB,23,Miami (OH)
+Giovanni,Carmazzi,2000,3,65,SFO,QB,,Hofstra
+Ron,Dugans,2000,3,66,CIN,WR,23,Florida St.
+Dez,White,2000,3,69,CHI,WR,21,Georgia Tech
+Chris,Cole,2000,3,70,DEN,WR,22,Texas A&M
+Ron,Dixon,2000,3,73,NYG,WR,24,Lambuth
+Chris,Redman,2000,3,75,BAL,QB,23,Louisville
+JR,Redmond,2000,3,76,NWE,RB,22,Arizona St.
+Laveranues,Coles,2000,3,78,NYJ,WR,22,Florida St.
+JaJuan,Dawson,2000,3,79,CLE,WR,22,Tulane
+Darrell,Jackson,2000,3,80,SEA,WR,21,Florida
+Reuben,Droughns,2000,3,81,DET,RB,22,Oregon
+Doug,Chapman,2000,3,88,MIN,RB,23,Marshall
+Curtis,Keaton,2000,4,97,CIN,RB,23,James Madison
+Gari,Scott,2000,4,99,PHI,WR,22,Michigan St.
+Danny,Farmer,2000,4,103,PIT,WR,23,UCLA
+Trevor,Gaylor,2000,4,111,SDG,WR,22,Miami (OH)
+Anthony,Lucas,2000,4,114,GNB,WR,,Arkansas
+Frank,Moreau,2000,4,115,KAN,RB,23,Louisville
+Avion,Black,2000,4,121,BUF,WR,23,Tennessee St.
+Paul,Smith,2000,5,132,SFO,RB,22,Texas-El Paso
+Windrell,Hayes,2000,5,143,NYJ,WR,23,USC
+Michael,Wiley,2000,5,144,DAL,RB,22,Ohio St.
+Joey,Jamison,2000,5,151,GNB,WR,,Texas Southern
+Dante,Hall,2000,5,153,KAN,WR,21,Texas A&M
+Muneer,Moore,2000,5,154,DEN,WR,,Richmond
+Sammy,Morris,2000,5,156,BUF,RB,23,Texas Tech
+Tee,Martin,2000,5,163,PIT,QB,22,Tennessee
+Troy,Walters,2000,5,165,MIN,WR,23,Stanford
+Chad,Morton,2000,5,166,NOR,RB,23,USC
+Marc,Bulger,2000,6,168,NOR,QB,23,West Virginia
+Frank,Murphy,2000,6,170,CHI,WR,23,Kansas St.
+Thomas,Hamner,2000,6,171,PHI,RB,,Minnesota
+Mareno,Philyaw,2000,6,172,ATL,WR,22,Troy
+James,Williams,2000,6,175,SEA,WR,22,Marshall
+Spergon,Wynn,2000,6,183,CLE,QB,22,Texas St.
+Mike,Anderson,2000,6,189,DEN,RB,26,Utah
+Emanuel,Smith,2000,6,196,JAX,WR,24,Arkansas
+Tom,Brady,2000,6,199,NWE,QB,23,Michigan
+Sherrod,Gideon,2000,6,200,NOR,WR,,Southern Miss
+Todd,Husak,2000,6,202,WAS,QB,22,Stanford
+JaJuan,Seider,2000,6,205,SDG,QB,,Florida A&M
+Desmond,Kitchings,2000,7,208,KAN,WR,,Furman
+Tim,Rattay,2000,7,212,SFO,QB,23,Louisiana Tech
+Mike,Green,2000,7,213,TEN,RB,24,Houston
+Jarious,Jackson,2000,7,214,DEN,QB,23,Notre Dame
+Drew,Haddad,2000,7,233,BUF,WR,22,Buffalo
+Joe,Hamilton,2000,7,234,TAM,QB,23,Georgia Tech
+Charles,Lee,2000,7,242,GNB,WR,22,Central Florida
+Shyrone,Stith,2000,7,243,JAX,RB,22,Virginia Tech
+Leroy,Fields,2000,7,246,DEN,WR,,Jackson St.
+Ethan,Howell,2000,7,250,WAS,WR,,Oklahoma St.
+Rondell,Mealey,2000,7,252,GNB,RB,23,LSU
+Michael,Vick,2001,1,1,ATL,QB,21,Virginia Tech
+LaDainian,Tomlinson HOF,2001,1,5,SDG,RB,22,TCU
+David,Terrell,2001,1,8,CHI,WR,22,Michigan
+Koren,Robinson,2001,1,9,SEA,WR,21,North Carolina St.
+Rod,Gardner,2001,1,15,WAS,WR,23,Clemson
+Santana,Moss,2001,1,16,NYJ,WR,22,Miami (FL)
+Deuce,McAllister,2001,1,23,NOR,RB,22,Mississippi
+Freddie,Mitchell,2001,1,25,PHI,WR,22,UCLA
+Michael,Bennett,2001,1,27,MIN,RB,23,Wisconsin
+Reggie,Wayne,2001,1,30,IND,WR,22,Miami (FL)
+Drew,Brees,2001,2,32,SDG,QB,22,Purdue
+Quincy,Morgan,2001,2,33,CLE,WR,23,Kansas St.
+Chad,Johnson,2001,2,36,CIN,WR,23,Oregon St.
+Anthony,Thomas,2001,2,38,CHI,RB,23,Michigan
+Robert,Ferguson,2001,2,41,GNB,WR,21,Texas A&M
+LaMont,Jordan,2001,2,49,NYJ,RB,22,Maryland
+Chris,Chambers,2001,2,52,MIA,WR,23,Wisconsin
+Quincy,Carter,2001,2,53,DAL,QB,23,Georgia
+Travis,Henry,2001,2,58,BUF,RB,22,Tennessee
+Marques,Tuiasosopo,2001,2,59,OAK,QB,22,Washington
+James,Jackson,2001,3,65,CLE,RB,25,Miami (FL)
+Steve,Smith,2001,3,74,CAR,WR,22,Utah
+Snoop,Minnis,2001,3,77,KAN,WR,24,Florida St.
+Kevan,Barlow,2001,3,80,SFO,RB,22,Pittsburgh
+Travis,Minor,2001,3,85,MIA,RB,22,Florida St.
+Rudi,Johnson,2001,4,100,CIN,RB,21,Auburn
+Chris,Weinke,2001,4,106,CAR,QB,29,Florida St.
+George,Layne,2001,4,108,KAN,RB,22,TCU
+Sage,Rosenfels,2001,4,109,WAS,QB,23,Iowa St.
+Milton,Wynn,2001,4,116,STL,WR,22,Washington St.
+Correll,Buckhalter,2001,4,121,PHI,RB,22,Nebraska
+Justin,McCareins,2001,4,124,TEN,WR,22,Northern Illinois
+Jesse,Palmer,2001,4,125,NYG,QB,22,Florida
+Cedric,James,2001,4,131,MIN,WR,22,TCU
+Vinny,Sutherland,2001,5,136,ATL,WR,23,Purdue
+Alex,Bannister,2001,5,140,SEA,WR,22,East. Kentucky
+Scotty,Anderson,2001,5,148,DET,WR,21,Grambling St.
+Mike,McMahon,2001,5,149,DET,QB,22,Rutgers
+Derrick,Blaylock,2001,5,150,KAN,RB,22,S.F. Austin
+Onomo,Ojo,2001,5,153,NOR,WR,,UC Davis
+Darnerien,McCants,2001,5,154,WAS,WR,24,Delaware St.
+AJ,Feeley,2001,5,155,PHI,QB,24,Oregon
+Eddie,Berlin,2001,5,159,TEN,WR,23,Northern Iowa
+Chris,Barnes,2001,5,161,BAL,RB,,New Mexico St.
+Jonathan,Carter,2001,5,162,NYG,WR,22,Troy
+Bobby,Newcombe,2001,6,166,ARI,WR,,Nebraska
+Cedrick,Wilson,2001,6,169,SFO,WR,22,Tennessee
+Josh,Booty,2001,6,172,SEA,QB,,LSU
+Dee,Brown,2001,6,175,CAR,RB,23,Syracuse
+Josh,Heupel,2001,6,177,MIA,QB,,Oklahoma
+Kevin,Kasper,2001,6,190,DEN,WR,23,Iowa
+Dan,Alexander,2001,6,192,TEN,RB,23,Nebraska
+Francis,St Paul,2001,6,197,STL,WR,,Northern Arizona
+TJ,Houshmandzadeh,2001,7,204,CIN,WR,23,Oregon St.
+John,Capel,2001,7,208,CHI,WR,,Florida
+Reggie,Germany,2001,7,214,BUF,WR,23,Ohio St.
+Chris,Taylor,2001,7,218,PIT,WR,22,Texas A&M
+KenYon,Rambo,2001,7,229,OAK,WR,22,Ohio St.
+Richmond,Flowers,2001,7,235,JAX,WR,,Chattanooga
+Quentin,McCord,2001,7,236,ATL,WR,23,Kentucky
+Andre,King,2001,7,245,CLE,WR,27,Miami (FL)
+David,Carr,2002,1,1,HOU,QB,23,Fresno St.
+Joey,Harrington,2002,1,3,DET,QB,23,Oregon
+Donte,Stallworth,2002,1,13,NOR,WR,21,Tennessee
+William,Green,2002,1,16,CLE,RB,22,Boston Col.
+TJ,Duckett,2002,1,18,ATL,RB,21,Michigan St.
+Ashley,Lelie,2002,1,19,DEN,WR,22,Hawaii
+Javon,Walker,2002,1,20,GNB,WR,23,Florida St.
+Patrick,Ramsey,2002,1,32,WAS,QB,23,Tulane
+Jabar,Gaffney,2002,2,33,HOU,WR,21,Florida
+DeShaun,Foster,2002,2,34,CAR,RB,22,UCLA
+Josh,Reed,2002,2,36,BUF,WR,22,LSU
+Tim,Carter,2002,2,46,NYG,WR,22,Auburn
+Andre,Davis,2002,2,47,CLE,WR,23,Virginia Tech
+Reche,Caldwell,2002,2,48,SDG,WR,23,Florida
+Clinton,Portis,2002,2,51,DEN,RB,21,Miami (FL)
+Maurice,Morris,2002,2,54,SEA,RB,22,Oregon
+Ladell,Betts,2002,2,56,WAS,RB,23,Iowa
+Antwaan,Randle El,2002,2,62,PIT,WR,23,Indiana
+Antonio,Bryant,2002,2,63,DAL,WR,21,Pittsburgh
+Deion,Branch,2002,2,65,NWE,WR,23,Louisville
+Josh,McCown,2002,3,81,ARI,QB,23,Sam Houston St.
+Lamar,Gordon,2002,3,84,STL,RB,22,North Dakota St.
+Marquis,Walker,2002,3,86,TAM,WR,,Michigan
+Cliff,Russell,2002,3,87,WAS,WR,23,Utah
+Brian,Westbrook,2002,3,91,PHI,RB,23,Villanova
+Eric,Crouch,2002,3,95,STL,WR,,Nebraska
+Jonathan,Wells,2002,4,99,HOU,RB,23,Ohio St.
+David,Garrard,2002,4,108,JAX,QB,24,East Carolina
+Rohan,Davey,2002,4,117,NWE,QB,24,LSU
+Travis,Stephens,2002,4,119,TAM,RB,24,Tennessee
+Ron,Johnson,2002,4,123,BAL,WR,22,Minnesota
+Najeh,Davenport,2002,4,135,GNB,RB,23,Miami (FL)
+Randy,Fasani,2002,5,137,CAR,QB,23,Stanford
+Terry,Charles,2002,5,142,SDG,WR,,Portland St.
+Herb,Haygood,2002,5,144,DEN,WR,24,Michigan St.
+Kyle,Johnson,2002,5,145,CAR,RB,23,Syracuse
+Jason,McAddley,2002,5,149,ARI,WR,23,Alabama
+Jake,Schifino,2002,5,151,TEN,WR,22,Akron
+Kurt,Kittner,2002,5,158,ATL,QB,22,Illinois
+Freddie,Milons,2002,5,162,PHI,WR,,Alabama
+Brandon,Doman,2002,5,163,SFO,QB,,BYU
+Craig,Nall,2002,5,164,GNB,QB,23,LSU
+Verron,Haynes,2002,5,166,PIT,RB,23,Georgia
+Sam,Simmons,2002,5,170,MIA,WR,22,Northwestern
+Kahlil,Hill,2002,6,184,ATL,WR,23,Iowa
+Josh,Scobey,2002,6,185,ARI,RB,22,Kansas St.
+JT,OSullivan,2002,6,186,NOR,QB,23,UC Davis
+Larry,Ned,2002,6,197,OAK,RB,24,San Diego St.
+Adrian,Peterson,2002,6,199,CHI,RB,23,Georgia Southern
+Lee,Mays,2002,6,202,PIT,WR,23,Texas-El Paso
+Jamin,Elliott,2002,6,203,CHI,WR,22,Delaware
+Brian,Allen,2002,6,204,IND,RB,22,Stanford
+Steve,Bellisari,2002,6,205,STL,QB,,Ohio St.
+Javin,Hunter,2002,6,206,BAL,WR,22,Notre Dame
+Chester,Taylor,2002,6,207,BAL,RB,22,Toledo
+DeVeren,Johnson,2002,6,208,DAL,WR,,Sacred Heart
+Luke,Staley,2002,7,214,DET,RB,,BYU
+Seth,Burford,2002,7,216,SDG,QB,,Cal Poly-San Luis Obispo
+Michael,Coleman,2002,7,217,ATL,WR,,Widener
+Kendall,Newson,2002,7,222,JAX,WR,22,Middle Tenn. St.
+Darrell,Hill,2002,7,225,TEN,WR,23,Northern Illinois
+Daryl,Jones,2002,7,226,NYG,WR,23,Miami (FL)
+Jeff,Kelly,2002,7,232,SEA,QB,23,Southern Miss
+Ronald,Curry,2002,7,235,OAK,WR,23,North Carolina
+Wes,Pate,2002,7,236,BAL,QB,,S.F. Austin
+Antwoine,Womack,2002,7,237,NWE,RB,,Virginia
+Leonard,Henry,2002,7,241,MIA,RB,24,East Carolina
+Chris,Massey,2002,7,243,STL,RB,23,Marshall
+Rodney,Wright,2002,7,249,BUF,WR,,Fresno St.
+Jarrett,Ferguson,2002,7,251,BUF,RB,,Virginia Tech
+David,Givens,2002,7,253,NWE,WR,22,Notre Dame
+Aaron,Lockett,2002,7,254,TAM,WR,,Kansas St.
+Carson,Palmer,2003,1,1,CIN,QB,23,USC
+Charles,Rogers,2003,1,2,DET,WR,22,Michigan St.
+Andre,Johnson,2003,1,3,HOU,WR,22,Miami (FL)
+Byron,Leftwich,2003,1,7,JAX,QB,23,Marshall
+Bryant,Johnson,2003,1,17,ARI,WR,22,Penn St.
+Kyle,Boller,2003,1,19,BAL,QB,22,California
+Rex,Grossman,2003,1,22,CHI,QB,23,Florida
+Willis,McGahee,2003,1,23,BUF,RB,21,Miami (FL)
+Larry,Johnson,2003,1,27,KAN,RB,23,Penn St.
+Taylor,Jacobs,2003,2,44,WAS,WR,22,Florida
+Bethel,Johnson,2003,2,45,NWE,WR,24,Texas A&M
+Anquan,Boldin,2003,2,54,ARI,WR,22,Florida St.
+Tyrone,Calico,2003,2,60,TEN,WR,22,Middle Tenn. St.
+Kelley,Washington,2003,3,65,CIN,WR,24,Tennessee
+Nate,Burleson,2003,3,71,MIN,WR,22,Nevada
+Kevin,Curtis,2003,3,74,STL,WR,25,Utah St.
+Musa,Smith,2003,3,77,BAL,RB,21,Georgia
+Dave,Ragone,2003,3,88,HOU,QB,23,Louisville
+Chris,Brown,2003,3,93,TEN,RB,22,Colorado
+Billy,McMullen,2003,3,95,PHI,WR,23,Virginia
+Chris,Simms,2003,3,97,TAM,QB,23,Texas
+Artose,Pinner,2003,4,99,DET,RB,25,Kentucky
+Domanick,Williams,2003,4,101,HOU,RB,22,LSU
+Onterrio,Smith,2003,4,105,MIN,RB,22,Oregon
+Shaun,McDonald,2003,4,106,STL,WR,22,Arizona St.
+Quentin,Griffin,2003,4,108,DEN,RB,22,Oklahoma
+Seneca,Wallace,2003,4,110,SEA,QB,23,Iowa St.
+Lee,Suggs,2003,4,115,CLE,RB,23,Virginia Tech
+Brandon,Lloyd,2003,4,124,SFO,WR,22,Illinois
+Sam,Aiken,2003,4,127,BUF,WR,22,North Carolina
+LaBrandon,Toefield,2003,4,132,JAX,RB,22,LSU
+Bobby,Wade,2003,5,139,CHI,WR,22,Arizona
+Justin,Gage,2003,5,143,CHI,WR,22,Missouri
+Adrian,Madise,2003,5,158,DEN,WR,23,TCU
+Jon,Olinger,2003,5,159,ATL,WR,,Cincinnati
+Brian,St Pierre,2003,5,163,PIT,QB,23,Boston Col.
+Doug,Gabriel,2003,5,167,OAK,WR,23,Central Florida
+JR,Tolver,2003,5,169,MIA,WR,,San Diego St.
+David,Kircus,2003,6,175,DET,WR,23,Grand Valley St.
+Zuriel,Smith,2003,6,186,DAL,WR,23,Hampton
+Drew,Henson,2003,6,192,HOU,QB,23,Michigan
+LaTarence,Dunbar,2003,6,196,ATL,WR,23,TCU
+Arnaz,Battle,2003,6,197,SFO,WR,23,Notre Dame
+Willie,Ponder,2003,6,199,NYG,WR,23,SE Missouri St.
+Brooks,Bollinger,2003,6,200,NYJ,QB,23,Wisconsin
+Kliff,Kingsbury,2003,6,201,NWE,QB,24,Texas Tech
+Kareem,Kelly,2003,6,203,NOR,WR,,USC
+Brock,Forsey,2003,6,206,CHI,RB,23,Boise St.
+David,Tyree,2003,6,211,NYG,WR,23,Syracuse
+Keenan,Howry,2003,7,221,MIN,WR,22,Oregon
+Taco,Wallace,2003,7,224,SEA,WR,22,Kansas St.
+Walter,Young,2003,7,226,CAR,WR,23,Illinois
+Talman,Gardner,2003,7,231,NOR,WR,23,Florida St.
+Gibran,Hamdan,2003,7,232,WAS,QB,22,Indiana
+Ahmaad,Galloway,2003,7,235,DEN,RB,,Alabama
+Brandon,Drumm,2003,7,236,DET,RB,,Colorado
+Ken,Dorsey,2003,7,241,SFO,QB,22,Miami (FL)
+JT,Wall,2003,7,242,PIT,RB,,Georgia
+Casey,Moore,2003,7,247,CAR,RB,,Stanford
+DeAndrew,Rubin,2003,7,253,GNB,WR,,South Florida
+Kevin,Walter,2003,7,255,NYG,WR,22,East. Michigan
+Carl,Ford,2003,7,256,GNB,WR,22,Toledo
+Travis,Anglin,2003,7,260,DET,WR,,Memphis
+Ryan,Hoag,2003,7,262,OAK,WR,,Gustavus Adolphus
+Eli,Manning,2004,1,1,SDG,QB,23,Mississippi
+Larry,Fitzgerald,2004,1,3,ARI,WR,21,Pittsburgh
+Philip,Rivers,2004,1,4,NYG,QB,22,North Carolina St.
+Roy,Williams,2004,1,7,DET,WR,22,Texas
+Reggie,Williams,2004,1,9,JAX,WR,21,Washington
+Ben,Roethlisberger,2004,1,11,PIT,QB,22,Miami (OH)
+Lee,Evans,2004,1,13,BUF,WR,23,Wisconsin
+Michael,Clayton,2004,1,15,TAM,WR,21,LSU
+JP,Losman,2004,1,22,BUF,QB,23,Tulane
+Steven,Jackson,2004,1,24,STL,RB,21,Oregon St.
+Chris,Perry,2004,1,26,CIN,RB,22,Michigan
+Michael,Jenkins,2004,1,29,ATL,WR,22,Ohio St.
+Kevin,Jones,2004,1,30,DET,RB,22,Virginia Tech
+Rashaun,Woods,2004,1,31,SFO,WR,23,Oklahoma St.
+Tatum,Bell,2004,2,41,DEN,RB,23,Oklahoma St.
+Julius,Jones,2004,2,43,DAL,RB,23,Notre Dame
+Devery,Henderson,2004,2,50,NOR,WR,22,LSU
+Darius,Watts,2004,2,54,DEN,WR,22,Marshall
+Greg,Jones,2004,2,55,JAX,RB,23,Florida St.
+Keary,Colbert,2004,2,62,CAR,WR,22,USC
+Derrick,Hamilton,2004,3,77,SFO,WR,22,Clemson
+Bernard,Berrian,2004,3,78,CHI,WR,23,Fresno St.
+Devard,Darling,2004,3,82,BAL,WR,22,Washington St.
+Matt,Schaub,2004,3,90,ATL,QB,23,Virginia
+Carlos,Francis,2004,4,99,OAK,WR,23,Texas Tech
+Samie,Parker,2004,4,105,KAN,WR,23,Oregon
+Luke,McCown,2004,4,106,CLE,QB,23,Louisiana Tech
+Jerricho,Cotchery,2004,4,108,NYJ,WR,22,North Carolina St.
+Mewelde,Moore,2004,4,119,MIN,RB,22,Tulane
+Ernest,Wilford,2004,4,120,JAX,WR,25,Virginia Tech
+Cedric,Cobbs,2004,4,128,NWE,RB,23,Arkansas
+Johnnie,Morant,2004,5,134,OAK,WR,22,Syracuse
+Craig,Krenzel,2004,5,148,CHI,QB,23,Ohio St.
+Maurice,Mann,2004,5,149,CIN,WR,21,Nevada
+Michael,Turner,2004,5,154,SDG,RB,22,Northern Illinois
+DJ,Hackett,2004,5,157,SEA,WR,23,Colorado
+Drew,Carter,2004,5,163,CAR,WR,23,Ohio St.
+PK,Sam,2004,5,164,NWE,WR,20,Florida St.
+Jamaar,Taylor,2004,6,168,NYG,WR,23,Texas A&M
+Triandos,Luke,2004,6,171,DEN,WR,22,Alabama
+Andy,Hall,2004,6,185,PHI,QB,23,Delaware
+Josh,Harris,2004,6,187,BAL,QB,,Bowling Green
+Troy,Fleming,2004,6,191,TEN,RB,23,Tennessee
+Jim,Sorgi,2004,6,193,IND,QB,23,Wisconsin
+Jeris,McIntyre,2004,6,195,KAN,WR,,Auburn
+Clarence,Moore,2004,6,199,BAL,WR,21,Northern Arizona
+Jeff,Smoker,2004,6,201,STL,QB,,Michigan St.
+John,Navarre,2004,7,202,ARI,QB,23,Michigan
+Mark,Jones,2004,7,206,TAM,WR,23,Tennessee
+Adimchinobe,Echemandu,2004,7,208,CLE,RB,23,California
+Sloan,Thomas,2004,7,211,HOU,WR,22,Texas
+Jonathan,Smith,2004,7,214,BUF,WR,22,Georgia Tech
+Patrick,Crayton,2004,7,216,DAL,WR,25,NW Oklahoma St.
+Cody,Pickett,2004,7,217,SFO,QB,24,Washington
+Casey,Bramlet,2004,7,218,CIN,QB,,Wyoming
+Quincy,Wilson,2004,7,219,ATL,RB,23,West Virginia
+Matt,Mauck,2004,7,225,DEN,QB,25,LSU
+Casey,Cramer,2004,7,228,TAM,RB,22,Dartmouth
+Derrick,Ward,2004,7,235,NYG,RB,24,Ottawa (KS)
+Bruce,Perry,2004,7,242,PHI,RB,23,Maryland
+Derek,Abney,2004,7,244,BAL,WR,,Kentucky
+Brandon,Miree,2004,7,247,DEN,RB,23,Pittsburgh
+BJ,Symons,2004,7,248,HOU,QB,,Texas Tech
+Bradlee,Van Pelt,2004,7,250,DEN,QB,24,Colorado St.
+Alex,Smith,2005,1,1,SFO,QB,21,Utah
+Ronnie,Brown,2005,1,2,MIA,RB,23,Auburn
+Braylon,Edwards,2005,1,3,CLE,WR,22,Michigan
+Cedric,Benson,2005,1,4,CHI,RB,22,Texas
+Cadillac,Williams,2005,1,5,TAM,RB,23,Auburn
+Troy,Williamson,2005,1,7,MIN,WR,22,South Carolina
+Mike,Williams,2005,1,10,DET,WR,21,USC
+Matt,Jones,2005,1,21,JAX,WR,22,Arkansas
+Mark,Clayton,2005,1,22,BAL,WR,23,Oklahoma
+Aaron,Rodgers,2005,1,24,GNB,QB,21,California
+Jason,Campbell,2005,1,25,WAS,QB,23,Auburn
+Roddy,White,2005,1,27,ATL,WR,23,Ala-Birmingham
+Reggie,Brown,2005,2,35,PHI,WR,24,Georgia
+Mark,Bradley,2005,2,39,CHI,WR,23,Oklahoma
+JJ,Arrington,2005,2,44,ARI,RB,22,California
+Eric,Shelton,2005,2,54,CAR,RB,22,Louisville
+Roscoe,Parrish,2005,2,55,BUF,WR,23,Miami (FL)
+Terrence,Murphy,2005,2,58,GNB,WR,22,Texas A&M
+Vincent,Jackson,2005,2,61,SDG,WR,22,Northern Colorado
+Frank,Gore,2005,3,65,SFO,RB,22,Miami (FL)
+Charlie,Frye,2005,3,67,CLE,QB,24,Akron
+Courtney,Roby,2005,3,68,TEN,WR,22,Indiana
+Andrew,Walter,2005,3,69,OAK,QB,23,Arizona St.
+Vernand,Morency,2005,3,73,HOU,RB,25,Oklahoma St.
+Ryan,Moats,2005,3,77,PHI,RB,22,Louisiana Tech
+Chris,Henry,2005,3,83,CIN,WR,22,West Virginia
+David,Greene,2005,3,85,SEA,QB,,Georgia
+Brandon,Jones,2005,3,96,TEN,WR,23,Oklahoma
+Maurice,Clarett,2005,3,101,DEN,RB,,Ohio St.
+Kyle,Orton,2005,4,106,CHI,QB,22,Purdue
+Marion,Barber,2005,4,109,DAL,RB,22,Minnesota
+Brandon,Jacobs,2005,4,110,NYG,RB,23,Southern Illinois
+Ciatrick,Fason,2005,4,112,MIN,RB,22,Florida
+Jerome,Mathis,2005,4,114,HOU,WR,22,Hampton
+Craphonso,Thorpe,2005,4,116,KAN,WR,22,Florida St.
+Chase,Lyman,2005,4,118,NOR,WR,,California
+Manuel,White,2005,4,120,WAS,RB,,UCLA
+Stefan,Lefors,2005,4,121,CAR,QB,,Louisville
+Alvin,Pearman,2005,4,127,JAX,RB,23,Virginia
+Darren,Sproles,2005,4,130,SDG,RB,22,Kansas St.
+Fred,Gibson,2005,4,131,PIT,WR,,Georgia
+Roydell,Williams,2005,4,136,TEN,WR,24,Tulane
+Airese,Currie,2005,5,140,CHI,WR,22,Clemson
+Damien,Nash,2005,5,142,TEN,RB,23,Missouri
+Dan,Orlovsky,2005,5,145,DET,QB,22,Connecticut
+Adrian,McPherson,2005,5,152,NOR,QB,,Florida St.
+Larry,Brackins,2005,5,155,TAM,WR,,Pearl River CC
+Rasheed,Marshall,2005,5,174,SFO,WR,24,West Virginia
+Cedric,Houston,2005,6,182,NYJ,RB,23,Tennessee
+Chad,Owens,2005,6,185,JAX,WR,23,Hawaii
+Tab,Perry,2005,6,190,CIN,WR,23,UCLA
+Dante,Ridgeway,2005,6,192,STL,WR,21,Ball St.
+Craig,Bragg,2005,6,195,GNB,WR,,UCLA
+DeAndra,Cobb,2005,6,201,ATL,RB,24,Michigan St.
+Derek,Anderson,2005,6,213,BAL,QB,22,Oregon St.
+Rick,Razzano,2005,7,221,TAM,RB,,Mississippi
+Marcus,Maxwell,2005,7,223,SFO,WR,22,Oregon
+Paris,Warren,2005,7,225,TAM,WR,23,Utah
+LeRon,McCoy,2005,7,226,ARI,WR,23,Indiana (PA)
+James,Kilian,2005,7,229,KAN,QB,,Tulsa
+Matt,Cassel,2005,7,230,NWE,QB,23,USC
+Lionel,Gates,2005,7,236,BUF,RB,23,Louisville
+Harry,Williams,2005,7,240,NYJ,WR,23,Tuskegee
+Anthony,Davis,2005,7,243,IND,RB,,Wisconsin
+Noah,Herron,2005,7,244,PIT,RB,23,Northwestern
+Ryan,Fitzpatrick,2005,7,250,STL,QB,22,Harvard
+JR,Russell,2005,7,253,TAM,WR,,Louisville
+Reggie,Bush,2006,1,2,NOR,RB,21,USC
+Vince,Young,2006,1,3,TEN,QB,23,Texas
+Matt,Leinart,2006,1,10,ARI,QB,23,USC
+Jay,Cutler,2006,1,11,DEN,QB,23,Vanderbilt
+Laurence,Maroney,2006,1,21,NWE,RB,21,Minnesota
+Santonio,Holmes,2006,1,25,PIT,WR,22,Ohio St.
+DeAngelo,Williams,2006,1,27,CAR,RB,23,Memphis
+Joseph,Addai,2006,1,30,IND,RB,23,LSU
+Chad,Jackson,2006,2,36,NWE,WR,21,Florida
+Sinorice,Moss,2006,2,44,NYG,WR,22,Miami (FL)
+LenDale,White,2006,2,45,TEN,RB,21,USC
+Kellen,Clemens,2006,2,49,NYJ,QB,23,Oregon
+Greg,Jennings,2006,2,52,GNB,WR,22,Western Michigan
+Maurice,JonesDrew,2006,2,60,JAX,RB,21,UCLA
+Tarvaris,Jackson,2006,2,64,MIN,QB,23,Alabama St.
+Brian,Calhoun,2006,3,74,DET,RB,22,Wisconsin
+Travis,Wilson,2006,3,78,CLE,WR,22,Oklahoma
+Jerious,Norwood,2006,3,79,ATL,RB,23,Mississippi St.
+Charlie,Whitehurst,2006,3,81,SDG,QB,24,Clemson
+Derek,Hagan,2006,3,82,MIA,WR,21,Arizona St.
+Brandon,Williams,2006,3,84,SFO,WR,22,Wisconsin
+Brodie,Croyle,2006,3,85,KAN,QB,23,Alabama
+Maurice,Stovall,2006,3,90,TAM,WR,21,Notre Dame
+Willie,Reid,2006,3,95,PIT,WR,23,Florida St.
+Michael,Robinson,2006,4,100,SFO,WR,23,Penn St.
+Brad,Smith,2006,4,103,NYJ,QB,22,Missouri
+Cory,Rodgers,2006,4,104,GNB,WR,,TCU
+Jason,Avant,2006,4,109,PHI,WR,23,Michigan
+Demetrius,Williams,2006,4,111,BAL,WR,23,Oregon
+Leon,Washington,2006,4,117,NYJ,RB,24,Florida St.
+Brandon,Marshall,2006,4,119,DEN,WR,22,Central Florida
+Skyler,Green,2006,4,125,DAL,WR,21,LSU
+Domenik,Hixon,2006,4,130,DEN,WR,21,Akron
+PJ,Daniels,2006,4,132,BAL,RB,23,Georgia Tech
+Marques,Hagans,2006,5,144,STL,WR,23,Virginia
+Jerome,Harrison,2006,5,145,CLE,RB,23,Washington St.
+Ingle,Martin,2006,5,148,GNB,QB,24,Furman
+David,Kirtman,2006,5,163,SEA,RB,23,USC
+Omar,Jacobs,2006,5,164,PIT,QB,,Bowling Green
+Wali,Lundy,2006,6,170,HOU,RB,22,Virginia
+Mike,Hass,2006,6,171,NOR,WR,23,Oregon St.
+Jonathan,Orr,2006,6,172,TEN,WR,,Wisconsin
+Delanie,Walker,2006,6,175,SFO,WR,22,Central Missouri St.
+Adam,Jennings,2006,6,184,ATL,WR,23,Fresno St.
+Jeff,Webb,2006,6,190,KAN,WR,24,San Diego St.
+Reggie,McNeal,2006,6,193,CIN,QB,22,Texas A&M
+Bruce,Gradkowski,2006,6,194,TAM,QB,23,Toledo
+JD,Runnels,2006,6,195,CHI,RB,22,Oklahoma
+Ethan,Kilmer,2006,7,209,CIN,WR,23,Penn St.
+Todd,Watkins,2006,7,218,ARI,WR,23,BYU
+Justin,Hamilton,2006,7,222,CLE,RB,23,Virginia Tech
+DJ,Shockley,2006,7,223,ATL,QB,,Georgia
+Bennie,Brazell,2006,7,231,CIN,WR,,LSU
+Devin,Aromashodu,2006,7,233,MIA,WR,22,Auburn
+Cedric,Humes,2006,7,240,PIT,RB,,Virginia Tech
+Quinton,Ganther,2006,7,246,TEN,RB,22,Utah
+Ben,Obomanu,2006,7,249,SEA,WR,22,Auburn
+David,Anderson,2006,7,251,HOU,WR,23,Colorado St.
+Marques,Colston,2006,7,252,NOR,WR,23,Hofstra
+Kevin,McMahan,2006,7,255,OAK,WR,,Maine
+JaMarcus,Russell,2007,1,1,OAK,QB,22,LSU
+Calvin,Johnson HOF,2007,1,2,DET,WR,21,Georgia Tech
+Adrian,Peterson,2007,1,7,MIN,RB,22,Oklahoma
+Ted,Ginn,2007,1,9,MIA,WR,22,Ohio St.
+Marshawn,Lynch,2007,1,12,BUF,RB,21,California
+Brady,Quinn,2007,1,22,CLE,QB,22,Notre Dame
+Dwayne,Bowe,2007,1,23,KAN,WR,22,LSU
+Robert,Meachem,2007,1,27,NOR,WR,22,Tennessee
+Craig,Davis,2007,1,30,SDG,WR,21,LSU
+Anthony,Gonzalez,2007,1,32,IND,WR,22,Ohio St.
+Kevin,Kolb,2007,2,36,PHI,QB,23,Houston
+John,Beck,2007,2,40,MIA,QB,26,BYU
+Drew,Stanton,2007,2,43,DET,QB,23,Michigan St.
+Sidney,Rice,2007,2,44,MIN,WR,21,South Carolina
+Dwayne,Jarrett,2007,2,45,CAR,WR,20,USC
+Kenny,Irons,2007,2,49,CIN,RB,,Auburn
+Chris,Henry,2007,2,50,TEN,RB,22,Arizona
+Steve,Smith,2007,2,51,NYG,WR,22,USC
+Brian,Leonard,2007,2,52,STL,RB,23,Rutgers
+Brandon,Jackson,2007,2,63,GNB,RB,21,Nebraska
+Lorenzo,Booker,2007,3,71,MIA,RB,23,Florida St.
+Jacoby,Jones,2007,3,73,HOU,WR,23,Lane
+Yamon,Figurs,2007,3,74,BAL,WR,24,Kansas St.
+Laurent,Robinson,2007,3,75,ATL,WR,22,Illinois St.
+Jason,Hill,2007,3,76,SFO,WR,22,Washington St.
+James,Jones,2007,3,78,GNB,WR,23,San Jose St.
+Mike,SimsWalker,2007,3,79,JAX,WR,22,Central Florida
+Paul,Williams,2007,3,80,TEN,WR,23,Fresno St.
+Tony,Hunt,2007,3,90,PHI,RB,21,Penn St.
+Trent,Edwards,2007,3,92,BUF,QB,23,Stanford
+Garrett,Wolfe,2007,3,93,CHI,RB,23,Northern Illinois
+Johnnie,Lee Higgins,2007,3,99,OAK,WR,23,Texas-El Paso
+Michael,Bush,2007,4,100,OAK,RB,23,Louisville
+Isaiah,Stanback,2007,4,103,DAL,QB,23,Washington
+Antonio,Pittman,2007,4,107,NOR,RB,21,Ohio St.
+Dwayne,Wright,2007,4,111,BUF,RB,24,Fresno St.
+Ryne,Robinson,2007,4,118,CAR,WR,22,Miami (OH)
+Chris,Davis,2007,4,128,TEN,WR,23,Florida St.
+LeRon,McClain,2007,4,137,BAL,RB,22,Alabama
+Steve,Breaston,2007,5,142,ARI,WR,24,Michigan
+Aundrae,Allison,2007,5,146,MIN,WR,21,East Carolina
+Kolby,Smith,2007,5,148,KAN,RB,22,Louisville
+Jeff,Rowe,2007,5,151,CIN,QB,23,Nevada
+David,Clowney,2007,5,157,GNB,WR,22,Virginia Tech
+Roy,Hall,2007,5,169,IND,WR,23,Ohio St.
+Legedu,Naanee,2007,5,172,SDG,WR,23,Boise St.
+Troy,Smith,2007,5,174,BAL,QB,23,Ohio St.
+Reagan,Mauia,2007,6,181,MIA,RB,23,Hawaii
+Thomas,Clayton,2007,6,186,SFO,RB,,Kansas St.
+Joel,Filani,2007,6,188,TEN,WR,,Texas Tech
+Courtney,Taylor,2007,6,197,SEA,WR,23,Auburn
+Jordan,Palmer,2007,6,205,WAS,QB,23,Texas-El Paso
+Justise,Hairston,2007,6,208,NWE,RB,,Central Connecticut St.
+Jordan,Kent,2007,6,210,SEA,WR,23,Oregon
+Tyler,Thigpen,2007,7,217,MIN,QB,23,Coastal Carolina
+Dallas,Baker,2007,7,227,PIT,WR,24,Florida
+DeShawn,Wynn,2007,7,228,GNB,RB,23,Florida
+John,Broussard,2007,7,229,JAX,WR,23,San Jose St.
+Chandler,Williams,2007,7,233,MIN,WR,,Florida International
+Syndric,Steptoe,2007,7,234,CLE,WR,22,Arizona
+Chansi,Stuckey,2007,7,235,NYJ,WR,23,Clemson
+Nate,Ilaoa,2007,7,236,PHI,RB,,Hawaii
+Jason,Snelling,2007,7,244,ATL,RB,23,Virginia
+Kenneth,Darby,2007,7,246,TAM,RB,24,Alabama
+Derek,Stanley,2007,7,249,STL,WR,22,Wisconsin–Whitewater
+Ahmad,Bradshaw,2007,7,250,NYG,RB,21,Marshall
+Jonathan,Holland,2007,7,254,OAK,WR,22,Louisiana Tech
+Matt,Ryan,2008,1,3,ATL,QB,23,Boston Col.
+Darren,McFadden,2008,1,4,OAK,RB,21,Arkansas
+Jonathan,Stewart,2008,1,13,CAR,RB,21,Oregon
+Joe,Flacco,2008,1,18,BAL,QB,23,Delaware
+Felix,Jones,2008,1,22,DAL,RB,21,Arkansas
+Rashard,Mendenhall,2008,1,23,PIT,RB,21,Illinois
+Chris,Johnson,2008,1,24,TEN,RB,22,East Carolina
+Donnie,Avery,2008,2,33,STL,WR,24,Houston
+Devin,Thomas,2008,2,34,WAS,WR,21,Michigan St.
+Jordy,Nelson,2008,2,36,GNB,WR,23,Kansas St.
+James,Hardy,2008,2,41,BUF,WR,22,Indiana
+Eddie,Royal,2008,2,42,DEN,WR,22,Virginia Tech
+Matt,Forte,2008,2,44,CHI,RB,22,Tulane
+Jerome,Simpson,2008,2,46,CIN,WR,22,Coastal Carolina
+DeSean,Jackson,2008,2,49,PHI,WR,21,California
+Malcolm,Kelly,2008,2,51,WAS,WR,21,Oklahoma
+Limas,Sweed,2008,2,53,PIT,WR,23,Texas
+Ray,Rice,2008,2,55,BAL,RB,21,Rutgers
+Brian,Brohm,2008,2,56,GNB,QB,22,Louisville
+Chad,Henne,2008,2,57,MIA,QB,23,Michigan
+Dexter,Jackson,2008,2,58,TAM,WR,22,Appalachian St.
+Kevin,Smith,2008,3,64,DET,RB,21,Central Florida
+Earl,Bennett,2008,3,70,CHI,WR,21,Vanderbilt
+Jamaal,Charles,2008,3,73,KAN,RB,21,Texas
+Early,Doucet,2008,3,81,ARI,WR,22,LSU
+Harry,Douglas,2008,3,84,ATL,WR,23,Louisville
+Steve,Slaton,2008,3,89,HOU,RB,22,West Virginia
+Kevin,OConnell,2008,3,94,NWE,QB,23,San Diego St.
+Mario,Manningham,2008,3,95,NYG,WR,22,Michigan
+Andre,Caldwell,2008,3,97,CIN,WR,23,Florida
+Will,Franklin,2008,4,105,KAN,WR,22,Missouri
+Marcus,Smith,2008,4,106,BAL,WR,23,New Mexico
+Tashard,Choice,2008,4,122,DAL,RB,23,Georgia Tech
+Arman,Shields,2008,4,125,OAK,WR,23,Richmond
+Lavelle,Hawkins,2008,4,126,TEN,WR,22,California
+Keenan,Burton,2008,4,128,STL,WR,23,Kentucky
+Kenny,Moore,2008,5,136,DET,WR,23,Wake Forest
+John,David Booty,2008,5,137,MIN,QB,,USC
+Ryan,Torain,2008,5,139,DEN,RB,22,Arizona St.
+Tim,Hightower,2008,5,149,ARI,RB,22,Richmond
+Matthew,Slater,2008,5,153,NWE,WR,22,UCLA
+Dennis,Dixon,2008,5,156,PIT,QB,23,Oregon
+Josh,Johnson,2008,5,160,TAM,QB,22,San Diego
+Erik,Ainge,2008,5,162,NYJ,QB,22,Tennessee
+Marcus,Thomas,2008,5,166,SDG,RB,24,Texas-El Paso
+Marcus,Henry,2008,6,171,NYJ,WR,22,Kansas
+Thomas,Brown,2008,6,172,ATL,RB,22,Georgia
+Josh,Morgan,2008,6,174,SFO,WR,23,Virginia Tech
+Jalen,Parmele,2008,6,176,MIA,RB,22,Toledo
+Xavier,Omon,2008,6,179,BUF,RB,23,NW Missouri St.
+Kevin,Robinson,2008,6,182,KAN,WR,23,Utah St.
+Colt,Brennan,2008,6,186,WAS,QB,25,Hawaii
+Paul,Hubbard,2008,6,191,CLE,WR,23,Wisconsin
+Jaymar,Johnson,2008,6,193,MIN,WR,24,Jackson St.
+Andre,Woodson,2008,6,198,NYG,QB,24,Kentucky
+Mike,Hart,2008,6,202,IND,RB,22,Michigan
+Lex,Hilliard,2008,6,204,MIA,RB,24,Montana
+Pierre,Garcon,2008,6,205,IND,WR,22,Mount Union
+Matt,Flynn,2008,7,209,GNB,QB,23,LSU
+Chauncey,Washington,2008,7,213,JAX,RB,23,USC
+Justin,Harper,2008,7,215,BAL,WR,23,Virginia Tech
+Brett,Swain,2008,7,217,GNB,WR,23,San Diego St.
+Alex,Brink,2008,7,223,HOU,QB,23,Washington St.
+Steve,Johnson,2008,7,224,BUF,WR,21,Kentucky
+Chaz,Schilens,2008,7,226,OAK,WR,22,San Diego St.
+Justin,Forsett,2008,7,233,SEA,RB,22,California
+Adrian,Arrington,2008,7,237,NOR,WR,22,Michigan
+Cory,Boyd,2008,7,238,TAM,RB,23,South Carolina
+Allen,Patrick,2008,7,240,BAL,RB,24,Oklahoma
+Mario,Urrutia,2008,7,246,CIN,WR,22,Louisville
+Marcus,Monk,2008,7,248,CHI,WR,22,Arkansas
+Matthew,Stafford,2009,1,1,DET,QB,21,Georgia
+Mark,Sanchez,2009,1,5,NYJ,QB,22,USC
+Darrius,HeywardBey,2009,1,7,OAK,WR,22,Maryland
+Michael,Crabtree,2009,1,10,SFO,WR,21,Texas Tech
+Knowshon,Moreno,2009,1,12,DEN,RB,22,Georgia
+Josh,Freeman,2009,1,17,TAM,QB,21,Kansas St.
+Jeremy,Maclin,2009,1,19,PHI,WR,21,Missouri
+Percy,Harvin,2009,1,22,MIN,WR,21,Florida
+Donald,Brown,2009,1,27,IND,RB,22,Connecticut
+Hakeem,Nicks,2009,1,29,NYG,WR,21,North Carolina
+Kenny,Britt,2009,1,30,TEN,WR,20,Rutgers
+Beanie,Wells,2009,1,31,ARI,RB,21,Ohio St.
+Brian,Robiskie,2009,2,36,CLE,WR,21,Ohio St.
+Pat,White,2009,2,44,MIA,QB,23,West Virginia
+Mohamed,Massaquoi,2009,2,50,CLE,WR,22,Georgia
+LeSean,McCoy,2009,2,53,PHI,RB,21,Pittsburgh
+Shonn,Greene,2009,3,65,NYJ,RB,24,Iowa
+Glen,Coffee,2009,3,74,SFO,RB,22,Alabama
+Derrick,Williams,2009,3,82,DET,WR,23,Penn St.
+Brandon,Tate,2009,3,83,NWE,WR,21,North Carolina
+Mike,Wallace,2009,3,84,PIT,WR,23,Mississippi
+Ramses,Barden,2009,3,85,NYG,WR,23,Cal Poly-San Luis Obispo
+Patrick,Turner,2009,3,87,MIA,WR,22,USC
+Deon,Butler,2009,3,91,SEA,WR,23,Penn St.
+Juaquin,Iglesias,2009,3,99,CHI,WR,22,Oklahoma
+Stephen,McGee,2009,4,101,DAL,QB,23,Texas A&M
+Mike,Thomas,2009,4,107,JAX,WR,22,Arizona
+Brian,Hartline,2009,4,108,MIA,WR,22,Ohio St.
+Mike,Goodson,2009,4,111,CAR,RB,22,Texas A&M
+Louis,Murphy,2009,4,124,OAK,WR,22,Florida
+Austin,Collie,2009,4,127,IND,WR,23,BYU
+Tony,Fiammetta,2009,4,128,CAR,RB,23,Syracuse
+Andre,Brown,2009,4,129,NYG,RB,22,North Carolina St.
+Gartrell,Johnson,2009,4,134,SDG,RB,23,Colorado St.
+Johnny,Knox,2009,5,140,CHI,WR,22,Abilene Christian
+Kenny,McKinley,2009,5,141,DEN,WR,22,South Carolina
+Jarett,Dillard,2009,5,144,JAX,WR,23,Rice
+Quinn,Johnson,2009,5,145,GNB,RB,22,LSU
+Rhett,Bomar,2009,5,151,NYG,QB,24,Sam Houston St.
+Brooks,Foster,2009,5,160,STL,WR,23,North Carolina
+Frank,Summers,2009,5,169,PIT,RB,24,UNLV
+Nate,Davis,2009,5,171,SFO,QB,22,Ball St.
+Javon,Ringer,2009,5,173,TEN,RB,22,Michigan St.
+Tom,Brandstater,2009,6,174,DEN,QB,24,Fresno St.
+Quinten,Lawrence,2009,6,175,KAN,WR,24,McNeese St.
+Mike,Teel,2009,6,178,SEA,QB,23,Rutgers
+Cedric,Peerman,2009,6,185,BAL,RB,22,Virginia
+Aaron,Brown,2009,6,192,DET,RB,23,TCU
+Brandon,Gibson,2009,6,194,PHI,WR,22,Washington St.
+James,Davis,2009,6,195,CLE,RB,23,Clemson
+Keith,Null,2009,6,196,STL,QB,23,West Texas A&M
+Curtis,Painter,2009,6,201,IND,QB,24,Purdue
+Dominique,Edison,2009,6,206,TEN,WR,23,S.F. Austin
+Bernard,Scott,2009,6,209,CIN,RB,25,Abilene Christian
+Chris,Ogbonnaya,2009,7,211,STL,RB,23,Texas
+Javarris,Williams,2009,7,212,KAN,RB,23,Tennessee St.
+Fui,Vakapuna,2009,7,215,CIN,RB,25,BYU
+Eddie,Williams,2009,7,221,WAS,RB,22,Idaho
+Demetrius,Byrd,2009,7,224,SDG,WR,,LSU
+Manuel,Johnson,2009,7,229,DAL,WR,22,Oklahoma
+Julian,Edelman,2009,7,232,NWE,WR,23,Kent St.
+Sammie,Stroughter,2009,7,233,TAM,WR,23,Oregon St.
+LaRod,StephensHowling,2009,7,240,ARI,RB,22,Pittsburgh
+Marko,Mitchell,2009,7,243,WAS,WR,24,Nevada
+Rashad,Jennings,2009,7,250,JAX,RB,24,Liberty
+Derek,Kinder,2009,7,251,CHI,WR,,Pittsburgh
+Freddie,Brown,2009,7,252,CIN,WR,,Utah
+Tiquan,Underwood,2009,7,253,JAX,WR,22,Rutgers
+Sam,Bradford,2010,1,1,STL,QB,22,Oklahoma
+CJ,Spiller,2010,1,9,BUF,RB,23,Clemson
+Ryan,Mathews,2010,1,12,SDG,RB,22,Fresno St.
+Demaryius,Thomas,2010,1,22,DEN,WR,22,Georgia Tech
+Dez,Bryant,2010,1,24,DAL,WR,21,Oklahoma St.
+Tim,Tebow,2010,1,25,DEN,QB,23,Florida
+Jahvid,Best,2010,1,30,DET,RB,21,California
+Dexter,McCluster,2010,2,36,KAN,WR,21,Mississippi
+Arrelious,Benn,2010,2,39,TAM,WR,21,Illinois
+Jimmy,Clausen,2010,2,48,CAR,QB,22,Notre Dame
+Toby,Gerhart,2010,2,51,MIN,RB,23,Stanford
+Ben,Tate,2010,2,58,HOU,RB,22,Auburn
+Montario,Hardesty,2010,2,59,CLE,RB,23,Tennessee
+Golden,Tate,2010,2,60,SEA,WR,22,Notre Dame
+Damian,Williams,2010,3,77,TEN,WR,22,USC
+Brandon,LaFell,2010,3,78,CAR,WR,23,LSU
+Emmanuel,Sanders,2010,3,82,PIT,WR,23,SMU
+Jordan,Shipley,2010,3,84,CIN,WR,24,Texas
+Colt,McCoy,2010,3,85,CLE,QB,24,Texas
+Eric,Decker,2010,3,87,DEN,WR,23,Minnesota
+Andre,Roberts,2010,3,88,ARI,WR,22,The Citadel
+Armanti,Edwards,2010,3,89,CAR,WR,22,Appalachian St.
+Taylor,Price,2010,3,90,NWE,WR,22,Ohio
+Mardy,Gilyard,2010,4,99,STL,WR,23,Cincinnati
+Mike,Williams,2010,4,101,TAM,WR,23,Syracuse
+Marcus,Easley,2010,4,107,BUF,WR,22,Connecticut
+Jacoby,Ford,2010,4,108,OAK,WR,23,Clemson
+Joe,McKnight,2010,4,112,NYJ,RB,22,USC
+Mike,Kafka,2010,4,122,PHI,QB,23,Northwestern
+John,Conner,2010,5,139,NYJ,RB,23,Kentucky
+John,Skelton,2010,5,155,ARI,QB,22,Fordham
+David,Reed,2010,5,156,BAL,WR,23,Utah
+Riley,Cooper,2010,5,159,PHI,WR,22,Florida
+Kerry,Meier,2010,5,165,ATL,WR,23,Kansas
+Jonathan,Crompton,2010,5,168,SDG,QB,23,Tennessee
+Anthony,Dixon,2010,6,173,SFO,RB,22,Mississippi St.
+Dennis,Morris,2010,6,174,WAS,RB,,Louisiana Tech
+Rusty,Smith,2010,6,176,TEN,QB,23,Florida Atlantic
+Carlton,Mitchell,2010,6,177,CLE,WR,22,South Florida
+Deji,Karim,2010,6,180,JAX,RB,23,Southern Illinois
+Dan,LeFevour,2010,6,181,CHI,QB,23,Central Michigan
+Jonathan,Dwyer,2010,6,188,PIT,RB,21,Georgia Tech
+Dezmon,Briscoe,2010,6,191,CIN,WR,21,Kansas
+James,Starks,2010,6,193,GNB,RB,24,Buffalo
+Antonio,Brown,2010,6,195,PIT,WR,22,Central Michigan
+Trindon,Holliday,2010,6,197,HOU,WR,24,LSU
+David,Gettis,2010,6,198,CAR,WR,23,Baylor
+Joe,Webb,2010,6,199,MIN,WR,23,Ala-Birmingham
+Charles,Scott,2010,6,200,PHI,RB,,LSU
+Tony,Pike,2010,6,204,CAR,QB,24,Cincinnati
+Kyle,Williams,2010,6,206,SFO,WR,22,Arizona St.
+Levi,Brown,2010,7,209,BUF,QB,23,Troy
+Terrence,Austin,2010,7,219,WAS,WR,22,UCLA
+Marc,Mariani,2010,7,222,TEN,WR,23,Montana
+Dorin,Dickerson,2010,7,227,HOU,WR,22,Pittsburgh
+Ryan,DImperio,2010,7,237,MIN,RB,23,Rutgers
+Sean,Canfield,2010,7,239,NOR,QB,24,Oregon St.
+Zac,Robinson,2010,7,250,NWE,QB,23,Oklahoma St.
+Tim,Toone,2010,7,255,DET,WR,25,Weber St.
+Cam,Newton,2011,1,1,CAR,QB,22,Auburn
+AJ,Green,2011,1,4,CIN,WR,23,Georgia
+Julio,Jones,2011,1,6,ATL,WR,22,Alabama
+Jake,Locker,2011,1,8,TEN,QB,23,Washington
+Blaine,Gabbert,2011,1,10,JAX,QB,21,Missouri
+Christian,Ponder,2011,1,12,MIN,QB,23,Florida St.
+Jonathan,Baldwin,2011,1,26,KAN,WR,22,Pittsburgh
+Mark,Ingram,2011,1,28,NOR,RB,21,Alabama
+Andy,Dalton,2011,2,35,CIN,QB,23,TCU
+Colin,Kaepernick,2011,2,36,SFO,QB,23,Nevada
+Ryan,Williams,2011,2,38,ARI,RB,21,Virginia Tech
+Titus,Young,2011,2,44,DET,WR,22,Boise St.
+Shane,Vereen,2011,2,56,NWE,RB,22,California
+Mikel,Leshoure,2011,2,57,DET,RB,21,Illinois
+Torrey,Smith,2011,2,58,BAL,WR,22,Maryland
+Greg,Little,2011,2,59,CLE,WR,22,North Carolina
+Daniel,Thomas,2011,2,62,MIA,RB,23,Kansas St.
+Randall,Cobb,2011,2,64,GNB,WR,21,Kentucky
+DeMarco,Murray,2011,3,71,DAL,RB,23,Oklahoma
+Stevan,Ridley,2011,3,73,NWE,RB,22,LSU
+Ryan,Mallett,2011,3,74,NWE,QB,23,Arkansas
+Austin,Pettis,2011,3,78,STL,WR,23,Boise St.
+Leonard,Hankerson,2011,3,79,WAS,WR,22,Miami (FL)
+Vincent,Brown,2011,3,82,SDG,WR,22,San Diego St.
+Jerrel,Jernigan,2011,3,83,NYG,WR,22,Troy
+Alex,Green,2011,3,96,GNB,RB,23,Hawaii
+Roy,Helu,2011,4,105,WAS,RB,22,Nebraska
+Kris,Durham,2011,4,107,SEA,WR,23,Georgia
+Clyde,Gates,2011,4,111,MIA,WR,25,Abilene Christian
+Greg,Salas,2011,4,112,STL,WR,23,Hawaii
+Cecil,Shorts,2011,4,114,JAX,WR,23,Mount Union
+Kendall,Hunter,2011,4,115,SFO,RB,22,Oklahoma St.
+Delone,Carter,2011,4,119,IND,RB,24,Syracuse
+Tandon,Doss,2011,4,123,BAL,WR,21,Indiana
+Owen,Marecic,2011,4,124,CLE,RB,22,Stanford
+Taiwan,Jones,2011,4,125,OAK,RB,23,East. Washington
+Bilal,Powell,2011,4,126,NYJ,RB,22,Louisville
+Jamie,Harper,2011,4,130,TEN,RB,21,Clemson
+Kealoha,Pilares,2011,5,132,CAR,WR,23,Hawaii
+Johnny,White,2011,5,133,BUF,RB,23,North Carolina
+Ricky,Stanzi,2011,5,135,KAN,QB,24,Iowa
+Anthony,Sherman,2011,5,136,ARI,RB,22,Connecticut
+Jacquizz,Rodgers,2011,5,145,ATL,RB,21,Oregon St.
+Denarius,Moore,2011,5,148,OAK,WR,22,Tennessee
+Dion,Lewis,2011,5,149,PHI,RB,20,Pittsburgh
+TJ,Yates,2011,5,152,HOU,QB,24,North Carolina
+Jeremy,Kerley,2011,5,153,NYJ,WR,22,TCU
+Niles,Paul,2011,5,155,WAS,WR,22,Nebraska
+Nathan,Enderle,2011,5,160,CHI,QB,23,Idaho
+Ryan,Whalen,2011,6,167,CIN,WR,22,Stanford
+Dwayne,Harris,2011,6,176,DAL,WR,23,East Carolina
+Evan,Royster,2011,6,177,WAS,RB,23,Penn St.
+Aldrick,Robinson,2011,6,178,WAS,WR,22,SMU
+Tyrod,Taylor,2011,6,180,BAL,QB,22,Virginia Tech
+Ronald,Johnson,2011,6,182,SFO,WR,23,USC
+Jordan,Todman,2011,6,183,SDG,RB,21,Connecticut
+Allen,Bradford,2011,6,187,TAM,RB,23,USC
+Greg,McElroy,2011,7,208,NYJ,QB,23,Alabama
+Shaun,Chapas,2011,7,220,DAL,RB,23,Georgia
+DaRel,Scott,2011,7,221,NYG,RB,23,Maryland
+Shane,Bannon,2011,7,223,KAN,RB,22,Yale
+Anthony,Allen,2011,7,225,BAL,RB,23,Georgia Tech
+Scotty,McKnight,2011,7,227,NYJ,WR,23,Colorado
+Baron,Batch,2011,7,232,PIT,RB,23,Texas Tech
+Stephen,Burton,2011,7,236,MIN,WR,21,Long Beach CC
+Stanley,Havili,2011,7,240,PHI,RB,23,USC
+David,Ausberry,2011,7,241,OAK,WR,23,USC
+Jay,Finley,2011,7,246,CIN,RB,23,Baylor
+DeMarco,Sampson,2011,7,249,ARI,WR,25,San Diego St.
+Andrew,Luck,2012,1,1,IND,QB,22,Stanford
+Robert,Griffin,2012,1,2,WAS,QB,22,Baylor
+Trent,Richardson,2012,1,3,CLE,RB,22,Alabama
+Justin,Blackmon,2012,1,5,JAX,WR,22,Oklahoma St.
+Ryan,Tannehill,2012,1,8,MIA,QB,24,Texas A&M
+Michael,Floyd,2012,1,13,ARI,WR,22,Notre Dame
+Kendall,Wright,2012,1,20,TEN,WR,22,Baylor
+Brandon,Weeden,2012,1,22,CLE,QB,28,Oklahoma St.
+AJ,Jenkins,2012,1,30,SFO,WR,22,Illinois
+Doug,Martin,2012,1,31,TAM,RB,23,Boise St.
+David,Wilson,2012,1,32,NYG,RB,21,Virginia Tech
+Brian,Quick,2012,2,33,STL,WR,23,Appalachian St.
+Stephen,Hill,2012,2,43,NYJ,WR,21,Georgia Tech
+Alshon,Jeffery,2012,2,45,CHI,WR,22,South Carolina
+Isaiah,Pead,2012,2,50,STL,RB,22,Cincinnati
+Ryan,Broyles,2012,2,54,DET,WR,24,Oklahoma
+Brock,Osweiler,2012,2,57,DEN,QB,21,Arizona St.
+LaMichael,James,2012,2,61,SFO,RB,22,Oregon
+Rueben,Randle,2012,2,63,NYG,WR,21,LSU
+Ronnie,Hillman,2012,3,67,DEN,RB,20,San Diego St.
+DeVier,Posey,2012,3,68,HOU,WR,22,Ohio St.
+TJ,Graham,2012,3,69,BUF,WR,23,North Carolina St.
+Russell,Wilson,2012,3,75,SEA,QB,23,Wisconsin
+Mohamed,Sanu,2012,3,83,CIN,WR,23,Rutgers
+Bernard,Pierce,2012,3,84,BAL,RB,21,Temple
+Nick,Foles,2012,3,88,PHI,QB,23,Arizona
+TY,Hilton,2012,3,92,IND,WR,22,Florida International
+Chris,Givens,2012,4,96,STL,WR,22,Wake Forest
+Lamar,Miller,2012,4,97,MIA,RB,21,Miami (FL)
+Travis,Benjamin,2012,4,100,CLE,WR,22,Miami (FL)
+Kirk,Cousins,2012,4,102,WAS,QB,24,Michigan St.
+Joe,Adams,2012,4,104,CAR,WR,22,Arkansas
+Robert,Turbin,2012,4,106,SEA,RB,22,Utah St.
+Devon,Wylie,2012,4,107,KAN,WR,24,Fresno St.
+Jarius,Wright,2012,4,118,MIN,WR,22,Arkansas
+Keshawn,Martin,2012,4,121,HOU,WR,22,Michigan St.
+Nick,Toon,2012,4,122,NOR,WR,23,Wisconsin
+Rhett,Ellison,2012,4,128,MIN,RB,23,USC
+Greg,Childs,2012,4,134,MIN,WR,22,Arkansas
+Danny,Coale,2012,5,152,DAL,WR,24,Virginia Tech
+Bradie,Ewing,2012,5,157,ATL,RB,22,Wisconsin
+Chris,Rainey,2012,5,159,PIT,RB,24,Florida
+Marvin,Jones,2012,5,166,CIN,WR,22,California
+Juron,Criner,2012,5,168,OAK,WR,22,Arizona
+Vick,Ballard,2012,5,170,IND,RB,22,Mississippi St.
+Alfred,Morris,2012,6,173,WAS,RB,23,Florida Atlantic
+Cyrus,Gray,2012,6,182,KAN,RB,22,Texas A&M
+BJ,Cunningham,2012,6,183,MIA,WR,23,Michigan St.
+Ryan,Lindley,2012,6,185,ARI,QB,23,San Diego St.
+Dan,Herron,2012,6,191,CIN,RB,23,Ohio St.
+Marvin,McNutt,2012,6,194,PHI,WR,23,Iowa
+Tommy,Streeter,2012,6,198,BAL,WR,22,Miami (FL)
+Terrance,Ganaway,2012,6,202,NYJ,RB,23,Baylor
+LaVon,Brazill,2012,6,206,IND,WR,23,Ohio
+Michael,Smith,2012,7,212,TAM,RB,24,Utah St.
+Rishard,Matthews,2012,7,227,MIA,WR,22,Nevada
+Bryce,Brown,2012,7,229,PHI,RB,21,Kansas St.
+Toney,Clemons,2012,7,231,PIT,WR,23,Colorado
+Jeremy,Ebert,2012,7,235,NWE,WR,23,Northwestern
+Junior,Hemingway,2012,7,238,KAN,WR,23,Michigan
+BJ,Coleman,2012,7,243,GNB,QB,23,Chattanooga
+Jordan,White,2012,7,244,NYJ,WR,24,Western Michigan
+Edwin,Baker,2012,7,250,SDG,RB,21,Michigan St.
+Daryl,Richardson,2012,7,252,STL,RB,22,Abilene Christian
+Chandler,Harnish,2012,7,253,IND,QB,24,Northern Illinois
+Tavon,Austin,2013,1,8,STL,WR,23,West Virginia
+EJ,Manuel,2013,1,16,BUF,QB,23,Florida St.
+DeAndre,Hopkins,2013,1,27,HOU,WR,21,Clemson
+Cordarrelle,Patterson,2013,1,29,MIN,WR,22,Tennessee
+Justin,Hunter,2013,2,34,TEN,WR,22,Tennessee
+Giovani,Bernard,2013,2,37,CIN,RB,21,North Carolina
+Geno,Smith,2013,2,39,NYJ,QB,22,West Virginia
+Robert,Woods,2013,2,41,BUF,WR,21,USC
+LeVeon,Bell,2013,2,48,PIT,RB,21,Michigan St.
+Montee,Ball,2013,2,58,DEN,RB,22,Wisconsin
+Aaron,Dobson,2013,2,59,NWE,WR,22,Marshall
+Eddie,Lacy,2013,2,61,GNB,RB,23,Alabama
+Christine,Michael,2013,2,62,SEA,RB,22,Texas A&M
+Mike,Glennon,2013,3,73,TAM,QB,23,North Carolina St.
+Terrance,Williams,2013,3,74,DAL,WR,23,Baylor
+Keenan,Allen,2013,3,76,SDG,WR,21,California
+Marquise,Goodwin,2013,3,78,BUF,WR,22,Texas
+Markus,Wheaton,2013,3,79,PIT,WR,22,Oregon St.
+Stedman,Bailey,2013,3,92,STL,WR,22,West Virginia
+Knile,Davis,2013,3,96,KAN,RB,21,Arkansas
+Matt,Barkley,2013,4,98,PHI,QB,22,USC
+Ace,Sanders,2013,4,101,JAX,WR,21,South Carolina
+Josh,Boyce,2013,4,102,NWE,WR,22,TCU
+Ryan,Nassib,2013,4,110,NYG,QB,23,Syracuse
+Tyler,Wilson,2013,4,112,OAK,QB,24,Arkansas
+Landry,Jones,2013,4,115,PIT,QB,24,Oklahoma
+Chris,Harper,2013,4,123,SEA,WR,23,Kansas St.
+Johnathan,Franklin,2013,4,125,GNB,RB,23,UCLA
+Quinton,Patton,2013,4,128,SFO,WR,23,Louisiana Tech
+Kyle,Juszczyk,2013,4,130,BAL,RB,22,Harvard
+Marcus,Lattimore,2013,4,131,SFO,RB,21,South Carolina
+Denard,Robinson,2013,5,135,JAX,WR,22,Michigan
+Stepfan,Taylor,2013,5,140,ARI,RB,22,Stanford
+Kenny,Stills,2013,5,144,NOR,WR,21,Oklahoma
+Joseph,Randle,2013,5,151,DAL,RB,21,Oklahoma St.
+Chris,Thompson,2013,5,154,WAS,RB,22,Florida St.
+Zac,Stacy,2013,5,160,STL,RB,22,Vanderbilt
+Tavarres,King,2013,5,161,DEN,WR,23,Georgia
+Mike,Gillislee,2013,5,164,MIA,RB,22,Florida
+Corey,Fuller,2013,6,171,DET,WR,23,Virginia Tech
+Ryan,Swope,2013,6,174,ARI,WR,22,Texas A&M
+Latavius,Murray,2013,6,181,OAK,RB,23,Central Florida
+Kenjon,Barner,2013,6,182,CAR,RB,24,Oregon
+Justin,Brown,2013,6,186,PIT,WR,22,Oklahoma
+Andre,Ellington,2013,6,187,ARI,RB,24,Clemson
+Mike,James,2013,6,189,TAM,RB,22,Miami (FL)
+Rex,Burkhead,2013,6,190,CIN,RB,23,Nebraska
+Spencer,Ware,2013,6,194,SEA,RB,21,LSU
+Alan,Bonner,2013,6,195,HOU,WR,22,Jacksonville St.
+Cobi,Hamilton,2013,6,197,CIN,WR,22,Arkansas
+Theo,Riddick,2013,6,199,DET,RB,22,Notre Dame
+Brice,Butler,2013,7,209,OAK,WR,23,San Diego St.
+Tommy,Bohanon,2013,7,215,NYJ,RB,22,Wake Forest
+Charles,Johnson,2013,7,216,GNB,WR,24,Grand Valley St.
+Brad,Sorensen,2013,7,221,SDG,QB,25,Southern Utah
+Kevin,Dorsey,2013,7,224,GNB,WR,23,Maryland
+Jawan,Jamison,2013,7,228,WAS,RB,21,Rutgers
+Kerwynn,Williams,2013,7,230,IND,RB,22,Utah St.
+Zac,Dysert,2013,7,234,DEN,QB,23,Miami (OH)
+Marquess,Wilson,2013,7,236,CHI,WR,20,Washington St.
+BJ,Daniels,2013,7,237,SFO,QB,24,South Florida
+Aaron,Mellette,2013,7,238,BAL,WR,23,Elon
+Sean,Renfree,2013,7,249,ATL,QB,23,Duke
+Michael,Cox,2013,7,253,NYG,RB,24,Massachusetts
+Blake,Bortles,2014,1,3,JAX,QB,22,Central Florida
+Sammy,Watkins,2014,1,4,BUF,WR,21,Clemson
+Mike,Evans,2014,1,7,TAM,WR,21,Texas A&M
+Odell,Beckham,2014,1,12,NYG,WR,21,LSU
+Brandin,Cooks,2014,1,20,NOR,WR,20,Oregon St.
+Johnny,Manziel,2014,1,22,CLE,QB,21,Texas A&M
+Kelvin,Benjamin,2014,1,28,CAR,WR,23,Florida St.
+Teddy,Bridgewater,2014,1,32,MIN,QB,21,Louisville
+Derek,Carr,2014,2,36,OAK,QB,23,Fresno St.
+Marqise,Lee,2014,2,39,JAX,WR,22,USC
+Jordan,Matthews,2014,2,42,PHI,WR,22,Vanderbilt
+Paul,Richardson,2014,2,45,SEA,WR,22,Colorado
+Davante,Adams,2014,2,53,GNB,WR,21,Fresno St.
+Bishop,Sankey,2014,2,54,TEN,RB,21,Washington
+Jeremy,Hill,2014,2,55,CIN,RB,21,LSU
+Cody,Latimer,2014,2,56,DEN,WR,21,Indiana
+Carlos,Hyde,2014,2,57,SFO,RB,23,Ohio St.
+Allen,Robinson,2014,2,61,JAX,WR,21,Penn St.
+Jimmy,Garoppolo,2014,2,62,NWE,QB,22,East. Illinois
+Jarvis,Landry,2014,2,63,MIA,WR,21,LSU
+Charles,Sims,2014,3,69,TAM,RB,23,West Virginia
+Tre,Mason,2014,3,75,STL,RB,21,Auburn
+Josh,Huff,2014,3,86,PHI,WR,22,Oregon
+Donte,Moncrief,2014,3,90,IND,WR,21,Mississippi
+John,Brown,2014,3,91,ARI,WR,24,Pittsburg St.
+Terrance,West,2014,3,94,CLE,RB,23,Towson
+Jerick,McKinnon,2014,3,96,MIN,RB,22,Georgia Southern
+Dri,Archer,2014,3,97,PIT,WR,23,Kent St.
+Devonta,Freeman,2014,4,103,ATL,RB,22,Florida St.
+Jalen,Saunders,2014,4,104,NYJ,WR,21,Oklahoma
+Bruce,Ellington,2014,4,106,SFO,WR,23,South Carolina
+Andre,Williams,2014,4,113,NYG,RB,22,Boston Col.
+Shaquelle,Evans,2014,4,115,NYJ,WR,23,UCLA
+KaDeem,Carey,2014,4,117,CHI,RB,21,Arizona
+Martavis,Bryant,2014,4,118,PIT,WR,22,Clemson
+Logan,Thomas,2014,4,120,ARI,QB,23,Virginia Tech
+Kevin,Norwood,2014,4,123,SEA,WR,24,Alabama
+DeAnthony,Thomas,2014,4,124,KAN,RB,21,Oregon
+James,White,2014,4,130,NWE,RB,22,Wisconsin
+Tom,Savage,2014,4,135,HOU,QB,24,Pittsburgh
+Lorenzo,Taliaferro,2014,4,138,BAL,RB,22,Coastal Carolina
+Ryan,Grant,2014,5,142,WAS,WR,23,Tulane
+Devin,Street,2014,5,146,DAL,WR,23,Pittsburgh
+Aaron,Murray,2014,5,163,KAN,QB,23,Georgia
+AJ,McCarron,2014,5,164,CIN,QB,23,Alabama
+Jared,Abbrederis,2014,5,176,GNB,WR,23,Wisconsin
+Zach,Mettenberger,2014,6,178,TEN,QB,23,LSU
+Alfred,Blue,2014,6,181,HOU,RB,23,LSU
+David,Fales,2014,6,183,CHI,QB,23,San Jose St.
+Robert,Herron,2014,6,185,TAM,WR,22,Wyoming
+Lache,Seastrunk,2014,6,186,WAS,RB,23,Baylor
+TJ,Jones,2014,6,189,DET,WR,22,Notre Dame
+Matt,Hazel,2014,6,190,MIA,WR,22,Coastal Carolina
+Keith,Wenning,2014,6,194,BAL,QB,23,Ball St.
+Walt,Powell,2014,6,196,ARI,WR,22,Murray St.
+Marion,Grice,2014,6,201,SDG,RB,23,Arizona St.
+Tyler,Gaffney,2014,6,204,CAR,RB,23,Stanford
+Quincy,Enunwa,2014,6,209,NYJ,WR,22,Nebraska
+Tajh,Boyd,2014,6,213,NYJ,QB,23,Clemson
+Garrett,Gilbert,2014,6,214,STL,QB,23,SMU
+Michael,Campanaro,2014,7,218,BAL,WR,23,Wake Forest
+Storm,Johnson,2014,7,222,JAX,RB,22,Central Florida
+Kiero,Small,2014,7,227,SEA,RB,25,Arkansas
+Jeff,Janis,2014,7,236,GNB,WR,23,Saginaw Valley St.
+James,Wright,2014,7,239,CIN,WR,22,LSU
+Tevin,Reese,2014,7,240,SDG,WR,23,Baylor
+Jeremy,Gallon,2014,7,244,NWE,WR,24,Michigan
+Jameis,Winston,2015,1,1,TAM,QB,21,Florida St.
+Marcus,Mariota,2015,1,2,TEN,QB,21,Oregon
+Amari,Cooper,2015,1,4,OAK,WR,21,Alabama
+Kevin,White,2015,1,7,CHI,WR,23,West Virginia
+Todd,Gurley,2015,1,10,STL,RB,21,Georgia
+DeVante,Parker,2015,1,14,MIA,WR,22,Louisville
+Melvin,Gordon,2015,1,15,SDG,RB,22,Wisconsin
+Nelson,Agholor,2015,1,20,PHI,WR,22,USC
+Breshad,Perriman,2015,1,26,BAL,WR,21,Central Florida
+Phillip,Dorsett,2015,1,29,IND,WR,22,Miami (FL)
+TJ,Yeldon,2015,2,36,JAX,RB,21,Alabama
+Devin,Smith,2015,2,37,NYJ,WR,23,Ohio St.
+Dorial,GreenBeckham,2015,2,40,TEN,WR,22,Oklahoma
+Ameer,Abdullah,2015,2,54,DET,RB,22,Nebraska
+Tyler,Lockett,2015,3,69,SEA,WR,22,Kansas St.
+Jaelen,Strong,2015,3,70,HOU,WR,21,Arizona St.
+Tevin,Coleman,2015,3,73,ATL,RB,22,Indiana
+Garrett,Grayson,2015,3,75,NOR,QB,24,Colorado St.
+Chris,Conley,2015,3,76,KAN,WR,22,Georgia
+Duke,Johnson,2015,3,77,CLE,RB,21,Miami (FL)
+David,Johnson,2015,3,86,ARI,RB,23,Northern Iowa
+Sammie,Coates,2015,3,87,PIT,WR,22,Auburn
+Sean,Mannion,2015,3,89,STL,QB,23,Oregon St.
+Ty,Montgomery,2015,3,94,GNB,WR,22,Stanford
+Matt,Jones,2015,3,95,WAS,RB,22,Florida
+Bryce,Petty,2015,4,103,NYJ,QB,24,Baylor
+Jamison,Crowder,2015,4,105,WAS,WR,22,Duke
+Jeremy,Langford,2015,4,106,CHI,RB,23,Michigan St.
+Justin,Hardy,2015,4,107,ATL,WR,23,East Carolina
+Vince,Mayle,2015,4,123,CLE,WR,24,Washington St.
+Javorius,Allen,2015,4,125,BAL,RB,24,USC
+Mike,Davis,2015,4,126,SFO,RB,22,South Carolina
+DeAndre,Smelter,2015,4,132,SFO,WR,23,Georgia Tech
+David,Cobb,2015,5,138,TEN,RB,22,Minnesota
+Rashad,Greene,2015,5,139,JAX,WR,22,Florida St.
+Stefon,Diggs,2015,5,146,MIN,WR,21,Maryland
+Brett,Hundley,2015,5,147,GNB,QB,22,UCLA
+Jay,Ajayi,2015,5,149,MIA,RB,22,Boise St.
+Karlos,Williams,2015,5,155,BUF,RB,22,Florida St.
+Tony,Lippett,2015,5,156,MIA,WR,23,Michigan St.
+JJ,Nelson,2015,5,159,ARI,WR,23,Ala-Birmingham
+Kenny,Bell,2015,5,162,TAM,WR,23,Nebraska
+Cameron,ArtisPayne,2015,5,174,CAR,RB,25,Auburn
+Keith,Mumphery,2015,5,175,HOU,WR,23,Michigan St.
+Kaelin,Clay,2015,6,184,TAM,WR,23,Utah
+Geremy,Davis,2015,6,186,NYG,WR,23,Connecticut
+Evan,Spencer,2015,6,187,WAS,WR,22,Ohio St.
+Bud,Sasser,2015,6,201,STL,WR,,Missouri
+Darren,Waller,2015,6,204,BAL,WR,22,Georgia Tech
+Josh,Robinson,2015,6,205,IND,RB,23,Mississippi St.
+Neal,Sterling,2015,7,220,JAX,WR,23,Monmouth
+Andre,Debose,2015,7,221,OAK,WR,,Florida
+Marcus,Murphy,2015,7,230,NOR,RB,23,Missouri
+DaRon,Brown,2015,7,233,KAN,WR,23,Northern Illinois
+Dezmin,Lewis,2015,7,234,BUF,WR,22,Central Arkansas
+Kenny,Hilliard,2015,7,235,HOU,RB,23,LSU
+Mario,Alford,2015,7,238,CIN,WR,23,West Virginia
+Tre,McBride,2015,7,245,TEN,WR,22,William & Mary
+Trevor,Siemian,2015,7,250,DEN,QB,23,Northwestern
+Jared,Goff,2016,1,1,LAR,QB,21,California
+Carson,Wentz,2016,1,2,PHI,QB,23,North Dakota St.
+Ezekiel,Elliott,2016,1,4,DAL,RB,21,Ohio St.
+Corey,Coleman,2016,1,15,CLE,WR,22,Baylor
+Will,Fuller,2016,1,21,HOU,WR,22,Notre Dame
+Josh,Doctson,2016,1,22,WAS,WR,23,TCU
+Laquon,Treadwell,2016,1,23,MIN,WR,21,Mississippi
+Paxton,Lynch,2016,1,26,DEN,QB,22,Memphis
+Sterling,Shepard,2016,2,40,NYG,WR,23,Oklahoma
+Derrick,Henry,2016,2,45,TEN,RB,22,Alabama
+Michael,Thomas,2016,2,47,NOR,WR,23,Ohio St.
+Christian,Hackenberg,2016,2,51,NYJ,QB,21,Penn St.
+Tyler,Boyd,2016,2,55,CIN,WR,21,Pittsburgh
+Kenyan,Drake,2016,3,73,MIA,RB,22,Alabama
+Braxton,Miller,2016,3,85,HOU,WR,23,Ohio St.
+Leonte,Carroo,2016,3,86,MIA,WR,22,Rutgers
+CJ,Prosise,2016,3,90,SEA,RB,22,Notre Dame
+Jacoby,Brissett,2016,3,91,NWE,QB,23,North Carolina St.
+Cody,Kessler,2016,3,93,CLE,QB,23,USC
+Connor,Cook,2016,4,100,OAK,QB,23,Michigan St.
+Chris,Moore,2016,4,107,BAL,WR,23,Cincinnati
+Malcolm,Mitchell,2016,4,112,NWE,WR,24,Georgia
+Ricardo,Louis,2016,4,114,CLE,WR,22,Auburn
+Pharoh,Cooper,2016,4,117,LAR,WR,21,South Carolina
+Tyler,Ervin,2016,4,119,HOU,RB,22,San Jose St.
+Demarcus,Robinson,2016,4,126,KAN,WR,21,Florida
+Kenneth,Dixon,2016,4,134,BAL,RB,22,Louisiana Tech
+Dak,Prescott,2016,4,135,DAL,QB,23,Mississippi St.
+Devontae,Booker,2016,4,136,DEN,RB,24,Utah
+Cardale,Jones,2016,4,139,BUF,QB,23,Ohio St.
+Tajae,Sharpe,2016,5,140,TEN,WR,21,Massachusetts
+DeAndre,Washington,2016,5,143,OAK,RB,23,Texas Tech
+Paul,Perkins,2016,5,149,NYG,RB,21,UCLA
+Jordan,Howard,2016,5,150,CHI,RB,21,Indiana
+Wendell,Smallwood,2016,5,153,PHI,RB,22,West Virginia
+Jordan,Payton,2016,5,154,CLE,WR,23,UCLA
+Jonathan,Williams,2016,5,156,BUF,RB,22,Arkansas
+Kevin,Hogan,2016,5,162,KAN,QB,23,Stanford
+Trevor,Davis,2016,5,163,GNB,WR,23,California
+Tyreek,Hill,2016,5,165,KAN,WR,22,West Alabama
+Alex,Collins,2016,5,171,SEA,RB,22,Arkansas
+Rashard,Higgins,2016,5,172,CLE,WR,21,Colorado St.
+Moritz,Boehringer,2016,6,180,MIN,WR,22,
+Keenan,Reynolds,2016,6,182,BAL,RB,22,Navy
+Jakeem,Grant,2016,6,186,MIA,WR,23,Texas Tech
+Nate,Sudfeld,2016,6,187,WAS,QB,22,Indiana
+Jake,Rudock,2016,6,191,DET,QB,23,Michigan
+Kolby,Listenbee,2016,6,192,BUF,WR,22,TCU
+Cody,Core,2016,6,199,CIN,WR,22,Mississippi
+Brandon,Allen,2016,6,201,JAX,QB,24,Arkansas
+Mike,Thomas,2016,6,206,LAR,WR,22,Southern Miss
+Jeff,Driskel,2016,6,207,SFO,QB,23,Louisiana Tech
+Kelvin,Taylor,2016,6,211,SFO,RB,22,Florida
+Aaron,Burbridge,2016,6,213,SFO,WR,22,Michigan St.
+Darius,Jackson,2016,6,216,DAL,RB,22,East. Michigan
+Brandon,Doughty,2016,7,223,MIA,QB,24,Western Kentucky
+Devin,Lucien,2016,7,225,NWE,WR,23,Arizona St.
+Demarcus,Ayers,2016,7,229,PIT,WR,22,Houston
+Daniel,Braverman,2016,7,230,CHI,WR,22,Western Michigan
+Dwayne,Washington,2016,7,236,DET,RB,22,Washington
+Daniel,Lasco,2016,7,237,NOR,RB,23,California
+Devin,Fuller,2016,7,238,ATL,WR,22,UCLA
+Charone,Peake,2016,7,241,NYJ,WR,23,Clemson
+Keith,Marshall,2016,7,242,WAS,RB,22,Georgia
+Kenny,Lawler,2016,7,243,SEA,WR,22,California
+Zac,Brooks,2016,7,247,SEA,RB,23,Clemson
+Mitchell,Trubisky,2017,1,2,CHI,QB,23,North Carolina
+Leonard,Fournette,2017,1,4,JAX,RB,22,LSU
+Corey,Davis,2017,1,5,TEN,WR,22,Western Michigan
+Mike,Williams,2017,1,7,LAC,WR,22,Clemson
+Christian,McCaffrey,2017,1,8,CAR,RB,21,Stanford
+John,Ross,2017,1,9,CIN,WR,21,Washington
+Patrick,Mahomes,2017,1,10,KAN,QB,21,Texas Tech
+Deshaun,Watson,2017,1,12,HOU,QB,21,Clemson
+Zay,Jones,2017,2,37,BUF,WR,22,East Carolina
+Curtis,Samuel,2017,2,40,CAR,WR,21,Ohio St.
+Dalvin,Cook,2017,2,41,MIN,RB,22,Florida St.
+Joe,Mixon,2017,2,48,CIN,RB,21,Oklahoma
+DeShone,Kizer,2017,2,52,CLE,QB,21,Notre Dame
+JuJu,SmithSchuster,2017,2,62,PIT,WR,20,USC
+Alvin,Kamara,2017,3,67,NOR,RB,22,Tennessee
+Cooper,Kupp,2017,3,69,LAR,WR,24,East. Washington
+Taywan,Taylor,2017,3,72,TEN,WR,22,Western Kentucky
+ArDarius,Stewart,2017,3,79,NYJ,WR,23,Alabama
+Carlos,Henderson,2017,3,82,DEN,WR,22,Louisiana Tech
+Chris,Godwin,2017,3,84,TAM,WR,21,Penn St.
+Kareem,Hunt,2017,3,86,KAN,RB,22,Toledo
+Davis,Webb,2017,3,87,NYG,QB,22,California
+DOnta,Foreman,2017,3,89,HOU,RB,21,Texas
+Kenny,Golladay,2017,3,96,DET,WR,23,Northern Illinois
+Chad,Williams,2017,3,98,ARI,WR,22,Grambling St.
+CJ,Beathard,2017,3,104,SFO,QB,23,Iowa
+James,Conner,2017,3,105,PIT,RB,22,Pittsburgh
+Amara,Darboh,2017,3,106,SEA,WR,23,Michigan
+Dede,Westbrook,2017,4,110,JAX,WR,23,Oklahoma
+Samaje,Perine,2017,4,114,WAS,RB,21,Oklahoma
+Josh,Reynolds,2017,4,117,LAR,WR,22,Texas A&M
+Mack,Hollins,2017,4,118,PHI,WR,23,North Carolina
+Tarik,Cohen,2017,4,119,CHI,RB,22,North Carolina A&T
+Joe,Williams,2017,4,121,SFO,RB,24,Utah
+Josh,Malone,2017,4,128,CIN,WR,21,Tennessee
+Donnel,Pumphrey,2017,4,132,PHI,RB,22,San Diego St.
+Ryan,Switzer,2017,4,133,DAL,WR,22,North Carolina
+Jamaal,Williams,2017,4,134,GNB,RB,22,BYU
+Joshua,Dobbs,2017,4,135,PIT,QB,22,Tennessee
+Jehu,Chesson,2017,4,139,KAN,WR,23,Michigan
+Wayne,Gallman,2017,4,140,NYG,RB,22,Clemson
+Chad,Hansen,2017,4,141,NYJ,WR,22,California
+Marlon,Mack,2017,4,143,IND,RB,21,South Florida
+Brian,Hill,2017,5,156,ATL,RB,21,Wyoming
+Jeremy,McNichols,2017,5,162,TAM,RB,21,Boise St.
+Shelton,Gibson,2017,5,166,PHI,WR,23,West Virginia
+Rodney,Adams,2017,5,170,MIN,WR,22,South Florida
+Nathan,Peterman,2017,5,171,BUF,QB,23,Pittsburgh
+Isaiah,McKenzie,2017,5,172,DEN,WR,22,Georgia
+DeAngelo,Yancey,2017,5,175,GNB,WR,22,Purdue
+Trent,Taylor,2017,5,177,SFO,WR,23,Louisiana Tech
+TJ,Logan,2017,5,179,ARI,RB,23,North Carolina
+Aaron,Jones,2017,5,182,GNB,RB,22,Texas-El Paso
+Elijah,McGuire,2017,6,188,NYJ,RB,23,Louisiana
+DeAngelo,Henderson,2017,6,203,DEN,RB,24,Coastal Carolina
+Brandon,Wilson,2017,6,207,CIN,RB,23,Houston
+Robert,Davis,2017,6,209,WAS,WR,22,Georgia St.
+Brad,Kaaya,2017,6,215,DET,QB,22,Miami (FL)
+Stacy,Coley,2017,7,219,MIN,WR,23,Miami (FL)
+David,Moore,2017,7,226,SEA,WR,22,East Central (OK)
+Isaiah,Ford,2017,7,237,MIA,WR,21,Virginia Tech
+Devante,Mays,2017,7,238,GNB,RB,23,Utah St.
+Noah,Brown,2017,7,239,DAL,WR,21,Ohio St.
+Khalfani,Muhammad,2017,7,241,TEN,RB,22,California
+Elijah,Hood,2017,7,242,OAK,RB,21,North Carolina
+Malachi,Dupre,2017,7,247,GNB,WR,21,LSU
+Chris,Carson,2017,7,249,SEA,RB,22,Oklahoma St.
+Matthew,Dayes,2017,7,252,CLE,RB,23,North Carolina St.
+Chad,Kelly,2017,7,253,DEN,QB,23,Mississippi
+Baker,Mayfield,2018,1,1,CLE,QB,23,Oklahoma
+Saquon,Barkley,2018,1,2,NYG,RB,21,Penn St.
+Sam,Darnold,2018,1,3,NYJ,QB,21,USC
+Josh,Allen,2018,1,7,BUF,QB,22,Wyoming
+Josh,Rosen,2018,1,10,ARI,QB,21,UCLA
+DJ,Moore,2018,1,24,CAR,WR,21,Maryland
+Calvin,Ridley,2018,1,26,ATL,WR,23,Alabama
+Rashaad,Penny,2018,1,27,SEA,RB,22,San Diego St.
+Sony,Michel,2018,1,31,NWE,RB,23,Georgia
+Lamar,Jackson,2018,1,32,BAL,QB,21,Louisville
+Nick,Chubb,2018,2,35,CLE,RB,22,Georgia
+Ronald,Jones,2018,2,38,TAM,RB,21,USC
+Courtland,Sutton,2018,2,40,DEN,WR,22,SMU
+Kerryon,Johnson,2018,2,43,DET,RB,21,Auburn
+Dante,Pettis,2018,2,44,SFO,WR,22,Washington
+Christian,Kirk,2018,2,47,ARI,WR,21,Texas A&M
+Anthony,Miller,2018,2,51,CHI,WR,23,Memphis
+Derrius,Guice,2018,2,59,WAS,RB,21,LSU
+James,Washington,2018,2,60,PIT,WR,22,Oklahoma St.
+DJ,Chark,2018,2,61,JAX,WR,21,LSU
+Royce,Freeman,2018,3,71,DEN,RB,22,Oregon
+Mason,Rudolph,2018,3,76,PIT,QB,23,Oklahoma St.
+Michael,Gallup,2018,3,81,DAL,WR,22,Colorado St.
+TreQuan,Smith,2018,3,91,NOR,WR,22,Central Florida
+Keke,Coutee,2018,4,103,HOU,WR,21,Texas Tech
+Nyheim,Hines,2018,4,104,IND,RB,21,North Carolina St.
+Antonio,Callaway,2018,4,105,CLE,WR,21,Florida
+Kyle,Lauletta,2018,4,108,NYG,QB,23,Richmond
+Mark,Walton,2018,4,112,CIN,RB,21,Miami (FL)
+DaeSean,Hamilton,2018,4,113,DEN,WR,23,Penn St.
+Ito,Smith,2018,4,126,ATL,RB,22,Southern Miss
+Kalen,Ballage,2018,4,131,MIA,RB,22,Arizona St.
+Jaleel,Scott,2018,4,132,BAL,WR,23,New Mexico St.
+JMon,Moore,2018,4,133,GNB,WR,23,Missouri
+Chase,Edmonds,2018,4,134,ARI,RB,22,Fordham
+Justin,Watson,2018,5,144,TAM,WR,22,Pennsylvania
+Daurice,Fountain,2018,5,159,IND,WR,22,Northern Iowa
+Jordan,Lasley,2018,5,162,BAL,WR,21,UCLA
+Jordan,Wilkins,2018,5,169,IND,RB,24,Mississippi
+Mike,White,2018,5,171,DAL,QB,23,Western Kentucky
+Marquez,ValdesScantling,2018,5,174,GNB,WR,23,South Florida
+Damion,Ratley,2018,6,175,CLE,WR,23,Texas A&M
+John,Kelly,2018,6,176,LAR,RB,21,Tennessee
+Deon,Cain,2018,6,185,IND,WR,22,Clemson
+RayRay,McCloud,2018,6,187,BUF,WR,21,Clemson
+Dylan,Cantrell,2018,6,191,LAC,WR,24,Texas Tech
+Russell,Gage,2018,6,194,ATL,WR,22,LSU
+Tremon,Smith,2018,6,196,KAN,WR,22,Central Arkansas
+Luke,Falk,2018,6,199,TEN,QB,23,Washington St.
+Boston,Scott,2018,6,201,NOR,RB,23,Louisiana Tech
+Tanner,Lee,2018,6,203,JAX,QB,23,Nebraska
+Trenton,Cannon,2018,6,204,NYJ,RB,24,Virginia St.
+Equanimeous,St Brown,2018,6,207,GNB,WR,21,Notre Dame
+Cedrick,Wilson,2018,6,208,DAL,WR,22,Boise St.
+Braxton,Berrios,2018,6,210,NWE,WR,22,Miami (FL)
+Danny,Etling,2018,7,219,NWE,QB,24,LSU
+Alex,McGough,2018,7,220,SEA,QB,22,Florida International
+Javon,Wims,2018,7,224,CHI,WR,23,Georgia
+David,Williams,2018,7,226,DEN,RB,24,Arkansas
+Marcell,Ateman,2018,7,228,OAK,WR,23,Oklahoma St.
+Bo,Scarbrough,2018,7,236,DAL,RB,23,Alabama
+Nick,Bawden,2018,7,237,DET,RB,22,San Diego St.
+Richie,James,2018,7,240,SFO,WR,23,Middle Tenn. St.
+Logan,Woodside,2018,7,249,CIN,QB,23,Toledo
+Justin,Jackson,2018,7,251,LAC,RB,22,Northwestern
+Auden,Tate,2018,7,253,CIN,WR,21,Florida St.
+Austin,Proehl,2018,7,255,BUF,WR,22,North Carolina
+Trey,Quinn,2018,7,256,WAS,WR,22,SMU
+Kyler,Murray,2019,1,1,ARI,QB,22,Oklahoma
+Daniel,Jones,2019,1,6,NYG,QB,22,Duke
+Dwayne,Haskins,2019,1,15,WAS,QB,22,Ohio St.
+Josh,Jacobs,2019,1,24,OAK,RB,21,Alabama
+Marquise,Brown,2019,1,25,BAL,WR,22,Oklahoma
+NKeal,Harry,2019,1,32,NWE,WR,21,Arizona St.
+Deebo,Samuel,2019,2,36,SFO,WR,23,South Carolina
+Drew,Lock,2019,2,42,DEN,QB,22,Missouri
+AJ,Brown,2019,2,51,TEN,WR,22,Mississippi
+Miles,Sanders,2019,2,53,PHI,RB,22,Penn St.
+Mecole,Hardman,2019,2,56,KAN,WR,21,Georgia
+JJ,ArcegaWhiteside,2019,2,57,PHI,WR,22,Stanford
+Parris,Campbell,2019,2,59,IND,WR,22,Ohio St.
+Andy,Isabella,2019,2,62,ARI,WR,22,Massachusetts
+DK,Metcalf,2019,2,64,SEA,WR,21,Mississippi
+Diontae,Johnson,2019,3,66,PIT,WR,23,Toledo
+Jalen,Hurd,2019,3,67,SFO,WR,23,Baylor
+Darrell,Henderson,2019,3,70,LAR,RB,22,Memphis
+David,Montgomery,2019,3,73,CHI,RB,22,Iowa St.
+Devin,Singletary,2019,3,74,BUF,RB,22,Florida Atlantic
+Terry,McLaurin,2019,3,76,WAS,WR,23,Ohio St.
+Damien,Harris,2019,3,87,NWE,RB,22,Alabama
+Miles,Boykin,2019,3,93,BAL,WR,22,Notre Dame
+Will,Grier,2019,3,100,CAR,QB,24,West Virginia
+Alexander,Mattison,2019,3,102,MIN,RB,21,Boise St.
+Hakeem,Butler,2019,4,103,ARI,WR,23,Iowa St.
+Ryan,Finley,2019,4,104,CIN,QB,24,North Carolina St.
+Bryce,Love,2019,4,112,WAS,RB,22,Stanford
+Justice,Hill,2019,4,113,BAL,RB,21,Oklahoma St.
+Gary,Jennings,2019,4,120,SEA,WR,22,West Virginia
+Benny,Snell,2019,4,122,PIT,RB,21,Kentucky
+Riley,Ridley,2019,4,126,CHI,WR,23,Georgia
+Tony,Pollard,2019,4,128,DAL,RB,22,Memphis
+Jarrett,Stidham,2019,4,133,NWE,QB,23,Auburn
+Ryquell,Armstead,2019,5,140,JAX,RB,22,Temple
+Hunter,Renfrow,2019,5,149,OAK,WR,23,Clemson
+Qadree,Ollison,2019,5,152,ATL,RB,22,Pittsburgh
+Jordan,Scarlett,2019,5,154,CAR,RB,23,Florida
+Easton,Stick,2019,5,166,LAC,QB,23,North Dakota St.
+Clayton,Thorson,2019,5,167,PHI,QB,24,Northwestern
+Darius,Slayton,2019,5,171,NYG,WR,22,Auburn
+KeeSean,Johnson,2019,6,174,ARI,WR,22,Fresno St.
+Gardner,Minshew,2019,6,178,JAX,QB,23,Washington St.
+Trayveon,Williams,2019,6,182,CIN,RB,21,Texas A&M
+Travis,Fulgham,2019,6,184,DET,WR,23,Old Dominion
+Ty,Johnson,2019,6,186,DET,RB,21,Maryland
+Juwann,Winfree,2019,6,187,DEN,WR,23,Colorado
+Dexter,Williams,2019,6,194,GNB,RB,22,Notre Dame
+Trace,McSorley,2019,6,197,BAL,QB,24,Penn St.
+Marcus,Green,2019,6,203,ATL,WR,23,La-Monroe
+Travis,Homer,2019,6,204,SEA,RB,21,Miami (FL)
+Kelvin,Harmon,2019,6,206,WAS,WR,22,North Carolina St.
+Scott,Miller,2019,6,208,TAM,WR,22,Bowling Green
+Rodney,Anderson,2019,6,211,CIN,RB,22,Oklahoma
+Darwin,Thompson,2019,6,214,KAN,RB,22,Utah St.
+Mike,Weber,2019,7,218,DAL,RB,22,Ohio St.
+Cullen,Gillaspia,2019,7,220,HOU,RB,24,Texas A&M
+Kerrith,Whyte,2019,7,222,CHI,RB,22,Florida Atlantic
+Chandler,Cox,2019,7,233,MIA,RB,23,Auburn
+Myles,Gaskin,2019,7,234,MIA,RB,22,Washington
+John,Ursua,2019,7,236,SEA,WR,25,Hawaii
+Terry,Godwin,2019,7,237,CAR,WR,22,Georgia
+Dillon,Mitchell,2019,7,239,MIN,WR,22,Oregon
+Olabisi,Johnson,2019,7,247,MIN,WR,22,Colorado St.
+Joe,Burrow,2020,1,1,CIN,QB,23,LSU
+Tua,Tagovailoa,2020,1,5,MIA,QB,22,Alabama
+Justin,Herbert,2020,1,6,LAC,QB,22,Oregon
+Henry,Ruggs,2020,1,12,LVR,WR,21,Alabama
+Jerry,Jeudy,2020,1,15,DEN,WR,21,Alabama
+CeeDee,Lamb,2020,1,17,DAL,WR,21,Oklahoma
+Jalen,Reagor,2020,1,21,PHI,WR,21,TCU
+Justin,Jefferson,2020,1,22,MIN,WR,21,LSU
+Brandon,Aiyuk,2020,1,25,SFO,WR,22,Arizona St.
+Jordan,Love,2020,1,26,GNB,QB,21,Utah St.
+Clyde,EdwardsHelaire,2020,1,32,KAN,RB,21,LSU
+Tee,Higgins,2020,2,33,CIN,WR,21,Clemson
+Michael,Pittman,2020,2,34,IND,WR,22,USC
+DAndre,Swift,2020,2,35,DET,RB,21,Georgia
+Jonathan,Taylor,2020,2,41,IND,RB,21,Wisconsin
+Laviska,Shenault,2020,2,42,JAX,WR,21,Colorado
+KJ,Hamler,2020,2,46,DEN,WR,21,Penn St.
+Chase,Claypool,2020,2,49,PIT,WR,22,Notre Dame
+Cam,Akers,2020,2,52,LAR,RB,21,Florida St.
+Jalen,Hurts,2020,2,53,PHI,QB,22,Oklahoma
+JK,Dobbins,2020,2,55,BAL,RB,21,Ohio St.
+Van,Jefferson,2020,2,57,LAR,WR,24,Florida
+Denzel,Mims,2020,2,59,NYJ,WR,22,Baylor
+AJ,Dillon,2020,2,62,GNB,RB,22,Boston Col.
+Antonio,Gibson,2020,3,66,WAS,RB,22,Memphis
+KeShawn,Vaughn,2020,3,76,TAM,RB,23,Illinois
+Lynn,Bowden,2020,3,80,LVR,WR,22,Kentucky
+Bryan,Edwards,2020,3,81,LVR,WR,21,South Carolina
+Zack,Moss,2020,3,86,BUF,RB,22,Utah
+Devin,Duvernay,2020,3,92,BAL,WR,22,Texas
+Darrynton,Evans,2020,3,93,TEN,RB,22,Appalachian St.
+Joshua,Kelley,2020,4,112,LAC,RB,22,UCLA
+LaMical,Perine,2020,4,120,NYJ,RB,22,Florida
+Jacob,Eason,2020,4,122,IND,QB,22,Washington
+Anthony,McFarland,2020,4,124,PIT,RB,21,Maryland
+James,Morgan,2020,4,125,NYJ,QB,23,Florida International
+Gabriel,Davis,2020,4,128,BUF,WR,21,Central Florida
+Antonio,GandyGolden,2020,4,142,WAS,WR,22,Liberty
+DeeJay,Dallas,2020,4,144,SEA,RB,21,Miami (FL)
+Joe,Reed,2020,5,151,LAC,WR,22,Virginia
+Tyler,Johnson,2020,5,161,TAM,WR,22,Minnesota
+Collin,Johnson,2020,5,165,JAX,WR,22,Texas
+Quintez,Cephus,2020,5,166,DET,WR,22,Wisconsin
+Jake,Fromm,2020,5,167,BUF,QB,22,Georgia
+John,Hightower,2020,5,168,PHI,WR,24,Boise St.
+Isaiah,Coulter,2020,5,171,HOU,WR,21,Rhode Island
+Jason,Huntley,2020,5,172,DET,RB,22,New Mexico St.
+Darnell,Mooney,2020,5,173,CHI,WR,22,Tulane
+KJ,Osborn,2020,5,176,MIN,WR,23,Miami (FL)
+Donovan,PeoplesJones,2020,6,187,CLE,WR,21,Michigan
+Jake,Luton,2020,6,189,JAX,QB,24,Oregon St.
+Quez,Watkins,2020,6,200,PHI,WR,22,Southern Miss
+James,Proche,2020,6,201,BAL,WR,23,SMU
+Isaiah,Hodgins,2020,6,207,BUF,WR,21,Oregon St.
+Dezmon,Patmon,2020,6,212,IND,WR,22,Washington St.
+Freddie,Swain,2020,6,214,SEA,WR,22,Florida
+Jauan,Jennings,2020,7,217,SFO,WR,23,Tennessee
+KJ,Hill,2020,7,220,LAC,WR,22,Ohio St.
+Eno,Benjamin,2020,7,222,ARI,RB,21,Arizona St.
+Cole,McDonald,2020,7,224,TEN,QB,22,Hawaii
+Ben,DiNucci,2020,7,231,DAL,QB,23,James Madison
+Tommy,Stevens,2020,7,240,NOR,QB,23,Mississippi St.
+Nate,Stanley,2020,7,244,MIN,QB,23,Iowa
+Raymond,Calais,2020,7,245,TAM,RB,22,Louisiana
+Malcolm,Perry,2020,7,246,MIA,RB,23,Navy
+Tyrie,Cleveland,2020,7,252,DEN,WR,22,Florida
+Trevor,Lawrence,2021,1,1,JAX,QB,21,Clemson
+Zach,Wilson,2021,1,2,NYJ,QB,22,BYU
+Trey,Lance,2021,1,3,SFO,QB,21,North Dakota St.
+JaMarr,Chase,2021,1,5,CIN,WR,21,LSU
+Jaylen,Waddle,2021,1,6,MIA,WR,22,Alabama
+DeVonta,Smith,2021,1,10,PHI,WR,22,Alabama
+Justin,Fields,2021,1,11,CHI,QB,22,Ohio St.
+Mac,Jones,2021,1,15,NWE,QB,23,Alabama
+Kadarius,Toney,2021,1,20,NYG,WR,22,Florida
+Najee,Harris,2021,1,24,PIT,RB,23,Alabama
+Travis,Etienne,2021,1,25,JAX,RB,22,Clemson
+Rashod,Bateman,2021,1,27,BAL,WR,21,Minnesota
+Elijah,Moore,2021,2,34,NYJ,WR,21,Mississippi
+Javonte,Williams,2021,2,35,DEN,RB,21,North Carolina
+Rondale,Moore,2021,2,49,ARI,WR,21,Purdue
+DWayne,Eskridge,2021,2,56,SEA,WR,24,Western Michigan
+Tutu,Atwell,2021,2,57,LAR,WR,21,Louisville
+Terrace,Marshall,2021,2,59,CAR,WR,21,LSU
+Kyle,Trask,2021,2,64,TAM,QB,23,Florida
+Kellen,Mond,2021,3,66,MIN,QB,22,Texas A&M
+Davis,Mills,2021,3,67,HOU,QB,22,Stanford
+Josh,Palmer,2021,3,77,LAC,WR,22,Tennessee
+Dyami,Brown,2021,3,82,WAS,WR,21,North Carolina
+Amari,Rodgers,2021,3,85,GNB,WR,21,Clemson
+Trey,Sermon,2021,3,88,SFO,RB,22,Ohio St.
+Nico,Collins,2021,3,89,HOU,WR,22,Michigan
+Anthony,Schwartz,2021,3,91,CLE,WR,21,Auburn
+Michael,Carter,2021,4,107,NYJ,RB,22,North Carolina
+Dez,Fitzpatrick,2021,4,109,TEN,WR,23,Louisville
+AmonRa,St Brown,2021,4,112,DET,WR,21,USC
+Kene,Nwangwu,2021,4,119,MIN,RB,23,Iowa St.
+Rhamondre,Stevenson,2021,4,120,NWE,RB,23,Oklahoma
+Chuba,Hubbard,2021,4,126,CAR,RB,22,Oklahoma St.
+Jaelon,Darden,2021,4,129,TAM,WR,22,North Texas
+Tylan,Wallace,2021,4,131,BAL,WR,22,Oklahoma St.
+Ian,Book,2021,4,133,NOR,QB,23,Notre Dame
+Jacob,Harris,2021,4,141,LAR,WR,24,Central Florida
+Kenneth,Gainwell,2021,5,150,PHI,RB,22,Memphis
+Ihmir,SmithMarsette,2021,5,157,MIN,WR,22,Iowa
+Simi,Fehoko,2021,5,179,DAL,WR,23,Stanford
+Cornell,Powell,2021,5,181,KAN,WR,23,Clemson
+Frank,Darby,2021,6,187,ATL,WR,23,Arizona St.
+Elijah,Mitchell,2021,6,194,SFO,RB,23,Louisiana
+Gary,Brightwell,2021,6,196,NYG,RB,22,Arizona
+Larry,Rountree,2021,6,198,LAC,RB,22,Missouri
+Chris,Evans,2021,6,202,CIN,RB,23,Michigan
+Marquez,Stevenson,2021,6,203,BUF,WR,23,Houston
+Shi,Smith,2021,6,204,CAR,WR,22,South Carolina
+Racey,McMath,2021,6,205,TEN,WR,22,LSU
+Jalen,Camp,2021,6,209,JAX,WR,23,Georgia Tech
+Demetric,Felton,2021,6,211,CLE,RB,23,UCLA
+Khalil,Herbert,2021,6,217,CHI,RB,23,Virginia Tech
+Sam,Ehlinger,2021,6,218,IND,QB,22,Texas
+Seth,Williams,2021,6,219,DEN,WR,21,Auburn
+Dazz,Newsome,2021,6,221,CHI,WR,22,North Carolina
+Mike,Strachan,2021,7,229,IND,WR,24,Charleston (WV)
+Jake,Funk,2021,7,233,LAR,RB,23,Maryland
+Tre,Nixon,2021,7,242,NWE,WR,23,Central Florida
+Gerrid,Doaks,2021,7,244,MIA,RB,23,Cincinnati
+Ben,Skowronek,2021,7,249,LAR,WR,24,Notre Dame
+Kawaan,Baker,2021,7,255,NOR,WR,23,South Alabama
+Kylin,Hill,2021,7,256,GNB,RB,23,Mississippi St.
+Jermar,Jefferson,2021,7,257,DET,RB,21,Oregon St.
+Dax,Milne,2021,7,258,WAS,WR,22,BYU
+Drake,London,2022,1,8,ATL,WR,21,USC
+Garrett,Wilson,2022,1,10,NYJ,WR,22,Ohio St.
+Chris,Olave,2022,1,11,NOR,WR,22,Ohio St.
+Jameson,Williams,2022,1,12,DET,WR,21,Alabama
+Jahan,Dotson,2022,1,16,WAS,WR,22,Penn St.
+Treylon,Burks,2022,1,18,TEN,WR,22,Arkansas
+Kenny,Pickett,2022,1,20,PIT,QB,24,Pittsburgh
+Christian,Watson,2022,2,34,GNB,WR,23,North Dakota St.
+Breece,Hall,2022,2,36,NYJ,RB,21,Iowa St.
+Kenneth,Walker,2022,2,41,SEA,RB,21,Michigan St.
+WanDale,Robinson,2022,2,43,NYG,WR,21,Kentucky
+John,Metchie,2022,2,44,HOU,WR,22,Alabama
+Tyquan,Thornton,2022,2,50,NWE,WR,22,Baylor
+George,Pickens,2022,2,52,PIT,WR,21,Georgia
+Alec,Pierce,2022,2,53,IND,WR,22,Cincinnati
+Skyy,Moore,2022,2,54,KAN,WR,21,Western Michigan
+James,Cook,2022,2,63,BUF,RB,22,Georgia
+Velus,Jones,2022,3,71,CHI,WR,25,Tennessee
+Desmond,Ridder,2022,3,74,ATL,QB,23,Cincinnati
+Malik,Willis,2022,3,86,TEN,QB,23,Liberty
+Jalen,Tolbert,2022,3,88,DAL,WR,23,South Alabama
+Rachaad,White,2022,3,91,TAM,RB,23,Arizona St.
+Tyrion,DavisPrice,2022,3,93,SFO,RB,21,LSU
+Matt,Corral,2022,3,94,CAR,QB,23,Mississippi
+Brian,Robinson,2022,3,98,WAS,RB,23,Alabama
+David,Bell,2022,3,99,CLE,WR,21,Purdue
+Danny,Gray,2022,3,105,SFO,WR,23,SMU
+Dameon,Pierce,2022,4,107,HOU,RB,22,Florida
+Zamir,White,2022,4,122,LVR,RB,22,Georgia
+Isaiah,Spiller,2022,4,123,LAC,RB,21,Texas A&M
+Erik,Ezukanma,2022,4,125,MIA,WR,22,Texas Tech
+Pierre,Strong,2022,4,127,NWE,RB,23,South Dakota St.
+Hassan,Haskins,2022,4,131,TEN,RB,22,Michigan
+Romeo,Doubs,2022,4,132,GNB,WR,22,Nevada
+Bailey,Zappe,2022,4,137,NWE,QB,23,Western Kentucky
+Calvin,Austin,2022,4,138,PIT,WR,23,Memphis
+Sam,Howell,2022,5,144,WAS,QB,21,North Carolina
+Khalil,Shakir,2022,5,148,BUF,WR,22,Boise St.
+Tyler,Allgeier,2022,5,151,ATL,RB,22,BYU
+Snoop,Conner,2022,5,154,JAX,RB,22,Mississippi
+Jerome,Ford,2022,5,156,CLE,RB,22,Cincinnati
+Montrell,Washington,2022,5,162,DEN,WR,23,Samford
+Kyle,Philips,2022,5,163,TEN,WR,23,UCLA
+Kyren,Williams,2022,5,164,LAR,RB,22,Notre Dame
+Ty,Chandler,2022,5,169,MIN,RB,24,North Carolina
+Kevin,Harris,2022,6,183,NWE,RB,21,South Carolina
+Jalen,Nailor,2022,6,191,MIN,WR,23,Michigan St.
+Tyler,Badie,2022,6,196,BAL,RB,22,Missouri
+Keaontay,Ingram,2022,6,201,ARI,RB,22,USC
+Michael,Woods,2022,6,202,CLE,WR,22,Oklahoma
+Trestan,Ebner,2022,6,203,CHI,RB,23,Baylor
+Bo,Melton,2022,7,229,SEA,WR,23,Rutgers
+Dareke,Young,2022,7,233,SEA,WR,23,Lenoir-Rhyne
+Chris,Oladokun,2022,7,241,PIT,QB,25,South Dakota St.
+Skylar,Thompson,2022,7,247,MIA,QB,25,Kansas St.
+Brittain,Brown,2022,7,250,LVR,RB,24,UCLA
+Isiah,Pacheco,2022,7,251,KAN,RB,22,Rutgers
+Samori,Toure,2022,7,258,GNB,WR,24,Nebraska
+Zander,Horvath,2022,7,260,LAC,RB,23,Purdue
+Brock,Purdy,2022,7,262,SFO,QB,22,Iowa St.
