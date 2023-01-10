@@ -83,8 +83,8 @@ def encodeCategories(x):
         if categoryCount == 2:
 
             # Encode column
-            feat0, feat1 = tuple(set(df[feature]))
-            df[feature] = df[feature].map({feat0: 0, feat1: 1})
+            feat0, feat1 = sorted(tuple(set(df[feature])))
+            df[feature] = df[feature].map({feat0: 0.0, feat1: 1.0})
 
             # Display which category is encoded 0 and 1
             print(feature + ' encoded as binary')
